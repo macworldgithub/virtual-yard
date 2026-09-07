@@ -1,0 +1,4546 @@
+{
+  "total": 227,
+  "reported_total": 227,
+  "vehicles": [
+    {
+      "vehicle": "2021 Honda CR-V RW VTi L AWD Wagon 5dr CVT 1sp, 4WD 1.5T [MY21]",
+      "data": {
+        "stock_number": "13459",
+        "vehicle_id": "905240",
+        "status": "SOLD",
+        "date_sold": "25/08/2026",
+        "price_display": "$23,000",
+        "price_value": 23000.0,
+        "photo_url": "",
+        "vin": "MRHRW2850NP061075",
+        "yard": "BYD Caroline Springs",
+        "registration": "BOR013",
+        "body_type": "Wagon",
+        "odometer_km": "70255",
+        "build_date": "2021/01",
+        "age_to_sell": "4 days to sell",
+        "registration_expiry": "158 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "stock_number": "10415",
+        "vehicle_id": "866347",
+        "status": "SOLD",
+        "date_sold": "25/08/2026",
+        "price_display": "$70,990",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ccdda8507cc86da45e5f27a238ee27c1.jpg",
+        "vin": "LGXCD4C45T0242524",
+        "yard": "BYD Nunawading",
+        "registration": "EDI674",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "109 days to sell",
+        "registration_expiry": "332 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "12694",
+        "vehicle_id": "895485",
+        "status": "SOLD",
+        "date_sold": "25/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1397f93ac027dc10fd089bb78a095da1.jpg",
+        "vin": "LGXCH4CD3T2197351",
+        "yard": "BYD Nunawading",
+        "registration": "EFV217",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "89 days to sell",
+        "registration_expiry": "357 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "13018",
+        "vehicle_id": "899661",
+        "status": "SOLD",
+        "date_sold": "25/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/78966bb7d7ef2a12088561fedad6b25f.jpg",
+        "vin": "LGXCH4CDXT2212704",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "74 days to sell",
+        "registration_expiry": "363 days"
+      }
+    },
+    {
+      "vehicle": "2020 Honda HR-V VTi Wagon 5dr CVT 1sp, 1.8i [MY20]",
+      "data": {
+        "stock_number": "13391",
+        "vehicle_id": "903411",
+        "status": "SOLD",
+        "date_sold": "25/08/2026",
+        "price_display": "$16,000",
+        "price_value": 16000.0,
+        "photo_url": "",
+        "vin": "MRHRU5830MP060229",
+        "yard": "BYD Nunawading",
+        "registration": "1RQ3RR",
+        "body_type": "Wagon",
+        "odometer_km": "29012",
+        "build_date": "2020/03",
+        "age_to_sell": "8 days to sell",
+        "registration_expiry": "114 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "12501",
+        "vehicle_id": "891696",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/091b1b64ba08e513c31c97adfc8af067.jpg",
+        "vin": "LPE19W2AXTF347366",
+        "yard": "BYD Wodonga",
+        "registration": "2FR8NR",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_to_sell": "44 days to sell",
+        "registration_expiry": "363 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "12103",
+        "vehicle_id": "881893",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/06b8bb0d3181e5d3ce55d7f3237a345e.jpg",
+        "vin": "LC0CE4CB3T4283693",
+        "yard": "BYD Fairfield",
+        "registration": "2FR8SQ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "71 days to sell",
+        "registration_expiry": "360 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "12421",
+        "vehicle_id": "891143",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f2db18bdce697373c8afb5f49e72e93d.jpg",
+        "vin": "LPE19W2A7TF347387",
+        "yard": "BYD Fairfield",
+        "registration": "DSL01",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_to_sell": "45 days to sell",
+        "registration_expiry": "359 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "12473",
+        "vehicle_id": "891668",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/023419139423f3f14e6d240463ef8ab7.jpg",
+        "vin": "LPE19W2A2TF304723",
+        "yard": "BYD Fairfield",
+        "registration": "2FR8SS",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_to_sell": "47 days to sell",
+        "registration_expiry": "360 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Dynamic",
+      "data": {
+        "stock_number": "12718",
+        "vehicle_id": "895510",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$31,990",
+        "price_value": 31990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/63a7cc768adeb54b2a1a04c737fc0e9f.jpg",
+        "vin": "LC0CE4CB6T4269402",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "64 days to sell",
+        "registration_expiry": "357 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "13050",
+        "vehicle_id": "899693",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ed774efb55f8c18343aee8a922a5c8b7.jpg",
+        "vin": "LGXCH4CD4T2238442",
+        "yard": "BYD Fairfield",
+        "registration": "2FR8SH",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_to_sell": "41 days to sell",
+        "registration_expiry": "358 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Essential",
+      "data": {
+        "stock_number": "5248",
+        "vehicle_id": "800481",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$41,282",
+        "price_value": 41282.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/251270107cddbeb7d390d3783fdc1ad1.jpg",
+        "vin": "LGXC74C41S0954311",
+        "yard": "BYD Nunawading",
+        "registration": "2FC5AJ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_to_sell": "275 days to sell",
+        "registration_expiry": "278 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic FWD",
+      "data": {
+        "stock_number": "5729",
+        "vehicle_id": "804697",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$56,990",
+        "price_value": 56990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d225ac2a94cc79cdebfd2be0cddeb92c.jpg",
+        "vin": "LGXC74C48T0181063",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8RG",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/02",
+        "age_to_sell": "178 days to sell",
+        "registration_expiry": "359 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "stock_number": "10343",
+        "vehicle_id": "866275",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$70,990",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/347249a9431644c21767920a6577caba.jpg",
+        "vin": "LGXCD4C49T0219022",
+        "yard": "BYD Nunawading",
+        "registration": "EFV215",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "123 days to sell",
+        "registration_expiry": "358 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10675",
+        "vehicle_id": "866608",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/259c649a589b82c65d328f28dc895e86.jpg",
+        "vin": "LGXCH4CD0T2188400",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8RF",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "96 days to sell",
+        "registration_expiry": "359 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10850",
+        "vehicle_id": "866783",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1487a7cf25760f364856374361220ec3.jpg",
+        "vin": "LGXCH4CD8T2196213",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8RE",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "89 days to sell",
+        "registration_expiry": "359 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10855",
+        "vehicle_id": "866788",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/da9dcb57c2149352975deef9c20e33b3.jpg",
+        "vin": "LGXCH4CD9T2196298",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8PC",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "89 days to sell",
+        "registration_expiry": "358 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "11377",
+        "vehicle_id": "875534",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/11d788c1f9da31428ee4a8527c9de529.jpg",
+        "vin": "LPE19W2A2TF299510",
+        "yard": "BYD Nunawading",
+        "registration": "EFV268",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "72 days to sell",
+        "registration_expiry": "351 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic FWD",
+      "data": {
+        "stock_number": "11598",
+        "vehicle_id": "877508",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$56,990",
+        "price_value": 56990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b3d62d875d39eb25ddccc3404f2c79ff.jpg",
+        "vin": "LGXC74C47T0258358",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8ON",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "101 days to sell",
+        "registration_expiry": "359 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "12018",
+        "vehicle_id": "881807",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/6277610c81887233d58aeb4790d50f4c.jpg",
+        "vin": "LGXCH4CD2T2206508",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8RD",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "74 days to sell",
+        "registration_expiry": "359 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "12526",
+        "vehicle_id": "891722",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b9e06a3b8af225370e939d9b00b052ab.jpg",
+        "vin": "LPE19W2A6TF347364",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8OT",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_to_sell": "43 days to sell",
+        "registration_expiry": "358 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "13054",
+        "vehicle_id": "899697",
+        "status": "SOLD",
+        "date_sold": "24/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/4bf65d8dd02e8518b9d3cd3eb96ead7c.jpg",
+        "vin": "LGXCH4CD6T2238491",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8RH",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_to_sell": "41 days to sell",
+        "registration_expiry": "359 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "stock_number": "12513",
+        "vehicle_id": "891709",
+        "status": "SOLD",
+        "date_sold": "22/08/2026",
+        "price_display": "$62,900",
+        "price_value": 62900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5974503ed46ff1f4fcd1523b942de2ab.jpg",
+        "vin": "LPE19W2AXTF347254",
+        "yard": "BYD Wodonga",
+        "registration": "GDJ90S",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_to_sell": "42 days to sell",
+        "registration_expiry": "360 days"
+      }
+    },
+    {
+      "vehicle": "2023 Mahindra XUV700 AX7L Wagon 7st 5dr Auto 6sp 2.0T [Mar]",
+      "data": {
+        "stock_number": "13151",
+        "vehicle_id": "900148",
+        "status": "SOLD",
+        "date_sold": "21/08/2026",
+        "price_display": "$20,000",
+        "price_value": 20000.0,
+        "photo_url": "",
+        "vin": "MA1NH2ZFFR6078253",
+        "yard": "BYD Caroline Springs",
+        "registration": "2FO6AX",
+        "body_type": "Wagon",
+        "odometer_km": "48443",
+        "build_date": "2023/09",
+        "age_to_sell": "9 days to sell",
+        "registration_expiry": "307 days"
+      }
+    },
+    {
+      "vehicle": "2021 Mitsubishi Triton MR MY21 GLX ADAS Utility Double Cab 4dr Spts Auto 6sp 4x4 945kg 2.4DT",
+      "data": {
+        "stock_number": "13338",
+        "vehicle_id": "903152",
+        "status": "SOLD",
+        "date_sold": "21/08/2026",
+        "price_display": "$20,000",
+        "price_value": 20000.0,
+        "photo_url": "",
+        "vin": "MMAJLKL10MH017813",
+        "yard": "BYD Caroline Springs",
+        "registration": "1TL4EF",
+        "body_type": "Utility",
+        "odometer_km": "101000",
+        "build_date": "2021/01",
+        "age_to_sell": "4 days to sell",
+        "registration_expiry": "260 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10834",
+        "vehicle_id": "866767",
+        "status": "SOLD",
+        "date_sold": "21/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/681f56db2424e45d54c67fdb6f3604d5.jpg",
+        "vin": "LGXCH4CD3T2196202",
+        "yard": "BYD Wodonga",
+        "registration": "2FR8NQ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "86 days to sell",
+        "registration_expiry": "359 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "stock_number": "11855",
+        "vehicle_id": "878450",
+        "status": "SOLD",
+        "date_sold": "21/08/2026",
+        "price_display": "$37,990",
+        "price_value": 37990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/da14202674fcde8872cca8669c3b82a8.jpg",
+        "vin": "LC0C74C49T7127491",
+        "yard": "BYD Wodonga",
+        "registration": "2FR8NP",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "70 days to sell",
+        "registration_expiry": "359 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL 6 Touring Premium",
+      "data": {
+        "stock_number": "7551",
+        "vehicle_id": "824992",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$37,749",
+        "price_value": 37749.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f8d0a2144a5ce9e8cfa6907e6bda7330.jpg",
+        "vin": "LC0C74C42T4134185",
+        "yard": "BYD Melbourne City",
+        "registration": "2EW2GE",
+        "body_type": "WAGON",
+        "odometer_km": "2000",
+        "build_date": "2026/03",
+        "age_to_sell": "152 days to sell",
+        "registration_expiry": "247 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium",
+      "data": {
+        "stock_number": "546",
+        "vehicle_id": "700938",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$50,879",
+        "price_value": 50879.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7881d8b1a587032507d79e0bf49b7d35.jpg",
+        "vin": "LGXCD4C49S0630659",
+        "yard": "BYD Caroline Springs",
+        "registration": "EFV246",
+        "body_type": "SUV",
+        "odometer_km": "2700",
+        "build_date": "2025/06",
+        "age_to_sell": "426 days to sell",
+        "registration_expiry": "151 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL 6 Touring Premium",
+      "data": {
+        "stock_number": "10445",
+        "vehicle_id": "866377",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$39,990",
+        "price_value": 39990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/96d7a59eab4ec4797be6d3c37bd4e497.jpg",
+        "vin": "LC0C74C4XT4229299",
+        "yard": "BYD Caroline Springs",
+        "registration": "2FR8UV",
+        "body_type": "WAGON",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "102 days to sell",
+        "registration_expiry": "357 days"
+      }
+    },
+    {
+      "vehicle": "2020 Hyundai I LOAD 3S TWIN SWING",
+      "data": {
+        "stock_number": "13140",
+        "vehicle_id": "899963",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$12,250",
+        "price_value": 12250.0,
+        "photo_url": "",
+        "vin": "KMFWBX7KMLU148749",
+        "yard": "BYD Caroline Springs",
+        "registration": "1WW6HA",
+        "body_type": "VAN",
+        "odometer_km": "191684",
+        "build_date": "2020/07",
+        "age_to_sell": "9 days to sell",
+        "registration_expiry": "Expires 28/08/2026"
+      }
+    },
+    {
+      "vehicle": "Mercedes-Benz E-Class A207 E200 Cabriolet 2dr 7G-TRONIC + 7sp 2.0T [Jun]",
+      "data": {
+        "stock_number": "13146",
+        "vehicle_id": "900015",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$8,000",
+        "price_value": 8000.0,
+        "photo_url": "",
+        "vin": "WDD2073032F070584",
+        "yard": "BYD Caroline Springs",
+        "registration": "2FJ6UO",
+        "body_type": "Cabriolet",
+        "odometer_km": "101368",
+        "build_date": "",
+        "age_to_sell": "9 days to sell",
+        "registration_expiry": "Expired -1 days ago"
+      }
+    },
+    {
+      "vehicle": "2019 Holden Equinox EQ LTZ Wagon 5dr Spts Auto 9sp AWD 2.0T [MY18]",
+      "data": {
+        "stock_number": "13392",
+        "vehicle_id": "903422",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$7,000",
+        "price_value": 7000.0,
+        "photo_url": "",
+        "vin": "3G0AX7EX1JS601472",
+        "yard": "BYD Caroline Springs",
+        "registration": "AZY568",
+        "body_type": "Wagon",
+        "odometer_km": "149911",
+        "build_date": "2019/01",
+        "age_to_sell": "2 days to sell",
+        "registration_expiry": "309 days"
+      }
+    },
+    {
+      "vehicle": "2020 Mazda 3 BP Series G20 Pure Hatchback 5dr SKYACTIV-Drive 6sp 2.0i",
+      "data": {
+        "stock_number": "13393",
+        "vehicle_id": "903434",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$19,100",
+        "price_value": 19100.0,
+        "photo_url": "",
+        "vin": "JM0BP2H7A01127890",
+        "yard": "BYD Caroline Springs",
+        "registration": "BLF326",
+        "body_type": "Hatchback",
+        "odometer_km": "46000",
+        "build_date": "2020/01",
+        "age_to_sell": "2 days to sell",
+        "registration_expiry": "112 days"
+      }
+    },
+    {
+      "vehicle": "2022 TOYOTA LANDCRUSIER 300 SERIES",
+      "data": {
+        "stock_number": "13450",
+        "vehicle_id": "904830",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$80,500",
+        "price_value": 80500.0,
+        "photo_url": "",
+        "vin": "JTMAA7BJ604036414",
+        "yard": "BYD Caroline Springs",
+        "registration": "1XC3UN",
+        "body_type": "SUV",
+        "odometer_km": "58715",
+        "build_date": "2022/12",
+        "age_to_sell": "0 days to sell",
+        "registration_expiry": "146 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "12003",
+        "vehicle_id": "881791",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b717d47bf233aebd1dcc56e007dbfe43.jpg",
+        "vin": "LGXCD4C4XT0288222",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8OY",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "80 days to sell",
+        "registration_expiry": "358 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "12094",
+        "vehicle_id": "881884",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ce97fc7a82323dd6c462b179d9d157ed.jpg",
+        "vin": "LC0CE4CB9T4302814",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8PJ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "68 days to sell",
+        "registration_expiry": "357 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "12115",
+        "vehicle_id": "881905",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/24a9db6957e35d22c085de1c6b4bf2c7.jpg",
+        "vin": "LC0CE4CB1T4326055",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8PK",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "66 days to sell",
+        "registration_expiry": "357 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "12153",
+        "vehicle_id": "881944",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/60e227c4a408cab1258066e6cf188d83.jpg",
+        "vin": "LGXCH4CD0T2227860",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8PB",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "53 days to sell",
+        "registration_expiry": "358 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "12424",
+        "vehicle_id": "891146",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/4daab5c64ab92a536568c93da27dcdd8.jpg",
+        "vin": "LPE19W2A7TF347339",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8PG",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_to_sell": "40 days to sell",
+        "registration_expiry": "357 days"
+      }
+    },
+    {
+      "vehicle": "2014 Renault Megane III B95 Phase 2 GT-Line Hatchback 5dr EDC 6sp 1.2T [Feb]",
+      "data": {
+        "stock_number": "13446",
+        "vehicle_id": "904706",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$5,000",
+        "price_value": 5000.0,
+        "photo_url": "",
+        "vin": "VF1BZ3603E0708213",
+        "yard": "BYD Nunawading",
+        "registration": "1CE9PR",
+        "body_type": "Hatchback",
+        "odometer_km": "39000",
+        "build_date": "2014/01",
+        "age_to_sell": "0 days to sell",
+        "registration_expiry": "113 days"
+      }
+    },
+    {
+      "vehicle": "2018 Mazda 3 BN Series Maxx Sport Sedan 4dr SKYACTIV-Drive 6sp 2.0i [Jan]",
+      "data": {
+        "stock_number": "13447",
+        "vehicle_id": "904707",
+        "status": "SOLD",
+        "date_sold": "20/08/2026",
+        "price_display": "$12,500",
+        "price_value": 12500.0,
+        "photo_url": "",
+        "vin": "JM0BN527810209262",
+        "yard": "BYD Nunawading",
+        "registration": "1MN4AJ",
+        "body_type": "Sedan",
+        "odometer_km": "86169",
+        "build_date": "2018/01",
+        "age_to_sell": "0 days to sell",
+        "registration_expiry": "209 days"
+      }
+    },
+    {
+      "vehicle": "2019 VOLKSWAGEN PASSAT 1.8 20V 3B",
+      "data": {
+        "stock_number": "12640",
+        "vehicle_id": "894230",
+        "status": "SOLD",
+        "date_sold": "19/08/2026",
+        "price_display": "$15,000",
+        "price_value": 15000.0,
+        "photo_url": "",
+        "vin": "wvwzz3czke054619",
+        "yard": "BYD Caroline Springs",
+        "registration": "bco493",
+        "body_type": "4D SEDAN",
+        "odometer_km": "92000",
+        "build_date": "2019/03",
+        "age_to_sell": "20 days to sell",
+        "registration_expiry": "Expires 30/08/2026"
+      }
+    },
+    {
+      "vehicle": "2022 Ford Everest Sport Wagon 7st 5dr Spts Auto 10sp, FullTime 4WD DR 3.0DT [MY22]",
+      "data": {
+        "stock_number": "13142",
+        "vehicle_id": "900000",
+        "status": "SOLD",
+        "date_sold": "19/08/2026",
+        "price_display": "$28,000",
+        "price_value": 28000.0,
+        "photo_url": "",
+        "vin": "MNAAXXMAWAME80191",
+        "yard": "BYD Caroline Springs",
+        "registration": "BUK144",
+        "body_type": "Wagon",
+        "odometer_km": "99626",
+        "build_date": "2022/01",
+        "age_to_sell": "8 days to sell",
+        "registration_expiry": "182 days"
+      }
+    },
+    {
+      "vehicle": "2023 Hyundai Palisade LX2.V4 Calligraphy Black Ink Wagon 7st 5dr Spts Auto 8sp 2WD 3.8i [MY24]",
+      "data": {
+        "stock_number": "13143",
+        "vehicle_id": "900006",
+        "status": "SOLD",
+        "date_sold": "19/08/2026",
+        "price_display": "$48,000",
+        "price_value": 48000.0,
+        "photo_url": "",
+        "vin": "KMHR781ASRU711351",
+        "yard": "BYD Caroline Springs",
+        "registration": "CYK833",
+        "body_type": "Wagon",
+        "odometer_km": "34000",
+        "build_date": "2023/01",
+        "age_to_sell": "8 days to sell",
+        "registration_expiry": "250 days"
+      }
+    },
+    {
+      "vehicle": "2016 MITSUBISHI ASX XB 2WD MY15.5LS",
+      "data": {
+        "stock_number": "13294",
+        "vehicle_id": "902925",
+        "status": "SOLD",
+        "date_sold": "19/08/2026",
+        "price_display": "$11,000",
+        "price_value": 11000.0,
+        "photo_url": "",
+        "vin": "JMFXTGA2WFZC17131",
+        "yard": "BYD Fairfield",
+        "registration": "1HT9TF",
+        "body_type": "Wagon",
+        "odometer_km": "71500",
+        "build_date": "2016/05",
+        "age_to_sell": "2 days to sell",
+        "registration_expiry": "351 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "stock_number": "9666",
+        "vehicle_id": "851854",
+        "status": "SOLD",
+        "date_sold": "19/08/2026",
+        "price_display": "$70,990",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5c3af4cfc042d6d49e03d28dbe533238.jpg",
+        "vin": "LGXCD4C45T0242538",
+        "yard": "BYD Nunawading",
+        "registration": "2FI5XZ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "102 days to sell",
+        "registration_expiry": "329 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "stock_number": "10769",
+        "vehicle_id": "866702",
+        "status": "SOLD",
+        "date_sold": "19/08/2026",
+        "price_display": "$70,990",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e14f2a33dbfabc7d584c77af3f94303d.jpg",
+        "vin": "LGXCD4C40T0270876",
+        "yard": "BYD Nunawading",
+        "registration": "EFV253",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "85 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "1998",
+        "vehicle_id": "741080",
+        "status": "SOLD",
+        "date_sold": "18/08/2026",
+        "price_display": "$53,778",
+        "price_value": 53778.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e71f578b26c7d83b2d0ab38fc69e9b8a.jpg",
+        "vin": "LPE19W2A0SF249560",
+        "yard": "BYD Caroline Springs",
+        "registration": "2EH6FA",
+        "body_type": "UTILITY",
+        "odometer_km": "4544",
+        "build_date": "2025/05",
+        "age_to_sell": "445 days to sell",
+        "registration_expiry": "184 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Essential",
+      "data": {
+        "stock_number": "5247",
+        "vehicle_id": "800480",
+        "status": "SOLD",
+        "date_sold": "18/08/2026",
+        "price_display": "$41,282",
+        "price_value": 41282.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/83e4f1debdb1347178d5e135a7dee71e.jpg",
+        "vin": "LGXC74C41S0954230",
+        "yard": "BYD Caroline Springs",
+        "registration": "2EN8FS",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_to_sell": "269 days to sell",
+        "registration_expiry": "216 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEAL Premium",
+      "data": {
+        "stock_number": "2864",
+        "vehicle_id": "763459",
+        "status": "SOLD",
+        "date_sold": "18/08/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/891a4479a370cc50d11a59443df225af.jpg",
+        "vin": "LGXCH6CD4S2264436",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "9614",
+        "build_date": "2025/11",
+        "age_to_sell": "285 days to sell",
+        "registration_expiry": "132 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "stock_number": "8337",
+        "vehicle_id": "836937",
+        "status": "SOLD",
+        "date_sold": "18/08/2026",
+        "price_display": "$63,990",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a3538494a3d548681611267e68700aaa.jpg",
+        "vin": "LGXCF4CD6T2160140",
+        "yard": "BYD Fairfield",
+        "registration": "2EX9VD",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "129 days to sell",
+        "registration_expiry": "296 days"
+      }
+    },
+    {
+      "vehicle": "2021 TESLA MODEL 3 STANDARD RANGE PLUS RWD MY21",
+      "data": {
+        "stock_number": "12642",
+        "vehicle_id": "894420",
+        "status": "SOLD",
+        "date_sold": "18/08/2026",
+        "price_display": "$21,750",
+        "price_value": 21750.0,
+        "photo_url": "",
+        "vin": "LRW3F7FA8MC167258",
+        "yard": "BYD Fairfield",
+        "registration": "BNL281",
+        "body_type": "5D SEDAN",
+        "odometer_km": "107800",
+        "build_date": "2021/01",
+        "age_to_sell": "18 days to sell",
+        "registration_expiry": "201 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "12466",
+        "vehicle_id": "891661",
+        "status": "SOLD",
+        "date_sold": "18/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e00a8853551741fac47d0eab6bfad7d0.jpg",
+        "vin": "LGXCH4CD0T2228300",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8OV",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "53 days to sell",
+        "registration_expiry": "357 days"
+      }
+    },
+    {
+      "vehicle": "2014 Mitsubishi Mirage LA ES Hatchback 5dr CVT 1sp 1.2i [MY14]",
+      "data": {
+        "stock_number": "13286",
+        "vehicle_id": "901420",
+        "status": "SOLD",
+        "date_sold": "18/08/2026",
+        "price_display": "$500",
+        "price_value": 500.0,
+        "photo_url": "",
+        "vin": "MMAXTA03AEH010547",
+        "yard": "BYD Nunawading",
+        "registration": "1BN3PY",
+        "body_type": "Hatchback",
+        "odometer_km": "131961",
+        "build_date": "2014/01",
+        "age_to_sell": "5 days to sell",
+        "registration_expiry": "Expires 20/09/2026"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "3883",
+        "vehicle_id": "782489",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$50,952",
+        "price_value": 50952.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/737a601e8a9a7870ebc6ac7414887658.jpg",
+        "vin": "LGXCD4C47S0642213",
+        "yard": "BYD Caroline Springs",
+        "registration": "2EL7WZ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_to_sell": "420 days to sell",
+        "registration_expiry": "198 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD DOLPHIN Essential",
+      "data": {
+        "stock_number": "5492",
+        "vehicle_id": "803009",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$28,775",
+        "price_value": 28775.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/96df2474775a1451e784b74d5ad83007.jpg",
+        "vin": "LC0CE4CC9T0048392",
+        "yard": "BYD Caroline Springs",
+        "registration": "2FI9VL",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_to_sell": "261 days to sell",
+        "registration_expiry": "307 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "9272",
+        "vehicle_id": "846138",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/696d170a4a7430cbd4cbf125d21acc5d.jpg",
+        "vin": "LC0CE4CB2T4194133",
+        "yard": "BYD Fairfield",
+        "registration": "ECT118",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "110 days to sell",
+        "registration_expiry": "328 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "stock_number": "10419",
+        "vehicle_id": "866351",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$70,990",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/32101259ca8d77ef337f8a5d08a2e930.jpg",
+        "vin": "LGXCD4C4XT0242549",
+        "yard": "BYD Fairfield",
+        "registration": "EFU411",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "101 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Dynamic Extended",
+      "data": {
+        "stock_number": "10648",
+        "vehicle_id": "866581",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$46,990",
+        "price_value": 46990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/261f859556be07f84db0e80cc55f57fc.jpg",
+        "vin": "LGXC74C45T0269911",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "92 days to sell",
+        "registration_expiry": "356 days"
+      }
+    },
+    {
+      "vehicle": "2016 Mercedes-Benz GLE-Class C292 GLE43 AMG Coupe 5dr 9G-TRONIC 9sp 4MATIC 3.0TT [Jul]",
+      "data": {
+        "stock_number": "11889",
+        "vehicle_id": "878510",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$25,250",
+        "price_value": 25250.0,
+        "photo_url": "",
+        "vin": "",
+        "yard": "BYD Fairfield",
+        "registration": "VKBR",
+        "body_type": "Wagon",
+        "odometer_km": "121499",
+        "build_date": "2016/01",
+        "age_to_sell": "49 days to sell",
+        "registration_expiry": "91 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL 6 Touring Premium",
+      "data": {
+        "stock_number": "12561",
+        "vehicle_id": "892325",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$39,990",
+        "price_value": 39990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/537da6f9effd6b1343b3a188ab284093.jpg",
+        "vin": "LC0C74C40T4275773",
+        "yard": "BYD Fairfield",
+        "registration": "2FR8SF",
+        "body_type": "WAGON",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "58 days to sell",
+        "registration_expiry": "350 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "stock_number": "5525",
+        "vehicle_id": "803043",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$36,898",
+        "price_value": 36898.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/0b6547a4656bece9e8fe61d97ff6de20.jpg",
+        "vin": "LC0C74C49T5087070",
+        "yard": "BYD Nunawading",
+        "registration": "2EV5DJ",
+        "body_type": "SUV",
+        "odometer_km": "498",
+        "build_date": "2026/01",
+        "age_to_sell": "213 days to sell",
+        "registration_expiry": "239 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "stock_number": "7178",
+        "vehicle_id": "821154",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$62,900",
+        "price_value": 62900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c2ce12d63197a778f402a4dcd63be6df.jpg",
+        "vin": "LPE19W2A8TF170087",
+        "yard": "BYD Nunawading",
+        "registration": "EFV228",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_to_sell": "145 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "9266",
+        "vehicle_id": "846132",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/919e429728727c60d95eafa64f91701a.jpg",
+        "vin": "LGXCH4CDXT2174522",
+        "yard": "BYD Nunawading",
+        "registration": "EFV252",
+        "body_type": "SUV",
+        "odometer_km": "14",
+        "build_date": "2026/04",
+        "age_to_sell": "110 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "9920",
+        "vehicle_id": "856937",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d00d8ef0ce98d1a4ef9ca4dafcf2beda.jpg",
+        "vin": "LGXCD4C43T0253005",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8PU",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "101 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 1 Premium",
+      "data": {
+        "stock_number": "10259",
+        "vehicle_id": "863111",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$27,990",
+        "price_value": 27990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/dedf2cd00e54ab476ca7fa015b354c92.jpg",
+        "vin": "LGXCE4CB2T2198000",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8RT",
+        "body_type": "HATCHBACK",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "82 days to sell",
+        "registration_expiry": "354 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "stock_number": "10320",
+        "vehicle_id": "866252",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$63,990",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d2f755e7cf65d783d25f6fd261544d53.jpg",
+        "vin": "LGXCF4CD4T2159617",
+        "yard": "BYD Nunawading",
+        "registration": "EFV265",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_to_sell": "140 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "10398",
+        "vehicle_id": "866330",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/bbe5975a83ad9767db21d85e082061e2.jpg",
+        "vin": "LGXCD4C44T0253563",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8PL",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "101 days to sell",
+        "registration_expiry": "356 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10674",
+        "vehicle_id": "866607",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f0973324f8b44e444843206c5d97a703.jpg",
+        "vin": "LGXCH4CD0T2188378",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8PQ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "89 days to sell",
+        "registration_expiry": "353 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10843",
+        "vehicle_id": "866776",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1b41bd36720030902d12c25fc27f743f.jpg",
+        "vin": "LGXCH4CD6T2196260",
+        "yard": "BYD Nunawading",
+        "registration": "EFV230",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "82 days to sell",
+        "registration_expiry": "354 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10844",
+        "vehicle_id": "866777",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8367432eb248d49e623cc586e1a69882.jpg",
+        "vin": "LGXCH4CD7T2195988",
+        "yard": "BYD Nunawading",
+        "registration": "EFV263",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "82 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10847",
+        "vehicle_id": "866780",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/6024249d51e6edf52992fe59501ee630.jpg",
+        "vin": "LGXCH4CD8T2195658",
+        "yard": "BYD Nunawading",
+        "registration": "EFV259",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "82 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "11388",
+        "vehicle_id": "875545",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d2440b4644e9d59fc3d3cbd979794c70.jpg",
+        "vin": "LPE19W2A1TF288370",
+        "yard": "BYD Nunawading",
+        "registration": "K66",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "64 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "12149",
+        "vehicle_id": "881940",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/cae1c28786428a72278a9072cf530c2a.jpg",
+        "vin": "LGXCH4CD3T2231269",
+        "yard": "BYD Nunawading",
+        "registration": "EFV251",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "51 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "12470",
+        "vehicle_id": "891665",
+        "status": "SOLD",
+        "date_sold": "17/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c1d327e07085cd97a96bd3a402fae01c.jpg",
+        "vin": "LGXCH4CD8T2228349",
+        "yard": "BYD Nunawading",
+        "registration": "EFV256",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "52 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2023 Hyundai Venue QX.V5 Elite Wagon 5dr Auto 6sp 1.6i (Two Tone) [MY23]",
+      "data": {
+        "stock_number": "13288",
+        "vehicle_id": "901423",
+        "status": "SOLD",
+        "date_sold": "14/08/2026",
+        "price_display": "$15,500",
+        "price_value": 15500.0,
+        "photo_url": "",
+        "vin": "KMHRC812MPU259027",
+        "yard": "BYD Caroline Springs",
+        "registration": "1XY2YO",
+        "body_type": "Wagon",
+        "odometer_km": "64000",
+        "build_date": "2023/01",
+        "age_to_sell": "0 days to sell",
+        "registration_expiry": "277 days"
+      }
+    },
+    {
+      "vehicle": "2014 Honda CR-V RM DTi-L Wagon 5dr Spts Auto 5sp, 4WD 2.2DT [MY14]",
+      "data": {
+        "stock_number": "13240",
+        "vehicle_id": "901188",
+        "status": "SOLD",
+        "date_sold": "14/08/2026",
+        "price_display": "$4,250",
+        "price_value": 4250.0,
+        "photo_url": "",
+        "vin": "SHSRE6860EU400462",
+        "yard": "BYD Fairfield",
+        "registration": "1EJ9IY",
+        "body_type": "Wagon",
+        "odometer_km": "200000",
+        "build_date": "2014/01",
+        "age_to_sell": "1 days to sell",
+        "registration_expiry": "50 days"
+      }
+    },
+    {
+      "vehicle": "2010 Mazda CX-9 TB Series 3 Luxury Wagon 7st 5dr Spts Auto 6sp 4WD 3.7i [MY10]",
+      "data": {
+        "stock_number": "13284",
+        "vehicle_id": "901416",
+        "status": "SOLD",
+        "date_sold": "14/08/2026",
+        "price_display": "$1,500",
+        "price_value": 1500.0,
+        "photo_url": "",
+        "vin": "JM0TB10A3A0207516",
+        "yard": "BYD Nunawading",
+        "registration": "XVC414",
+        "body_type": "Wagon",
+        "odometer_km": "226910",
+        "build_date": "2010/01",
+        "age_to_sell": "1 days to sell",
+        "registration_expiry": "150 days"
+      }
+    },
+    {
+      "vehicle": "2023 Kia Picanto JA GT-Line Hatchback 5dr Auto 4sp 1.25i [MY23]",
+      "data": {
+        "stock_number": "13285",
+        "vehicle_id": "901418",
+        "status": "SOLD",
+        "date_sold": "14/08/2026",
+        "price_display": "$14,100",
+        "price_value": 14100.0,
+        "photo_url": "",
+        "vin": "KNAB3512MPT078733",
+        "yard": "BYD Nunawading",
+        "registration": "1RS6QY",
+        "body_type": "Hatchback",
+        "odometer_km": "27500",
+        "build_date": "2023/01",
+        "age_to_sell": "1 days to sell",
+        "registration_expiry": "230 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "stock_number": "7191",
+        "vehicle_id": "821168",
+        "status": "SOLD",
+        "date_sold": "13/08/2026",
+        "price_display": "$62,900",
+        "price_value": 62900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/972d6301b69b9480b52422f51bf0200e.jpg",
+        "vin": "LPE19W2A9TF176237",
+        "yard": "BYD Wodonga",
+        "registration": "2FR8XA",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_to_sell": "140 days to sell",
+        "registration_expiry": "351 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Dynamic",
+      "data": {
+        "stock_number": "10688",
+        "vehicle_id": "866621",
+        "status": "SOLD",
+        "date_sold": "13/08/2026",
+        "price_display": "$31,990",
+        "price_value": 31990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/9bf7b4d1b9eba989cbe6820404b65109.jpg",
+        "vin": "LC0CE4CB9T4237897",
+        "yard": "BYD Fairfield",
+        "registration": "2FR8RL",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "84 days to sell",
+        "registration_expiry": "351 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 3 Essential",
+      "data": {
+        "stock_number": "12416",
+        "vehicle_id": "891137",
+        "status": "SOLD",
+        "date_sold": "13/08/2026",
+        "price_display": "$39,990",
+        "price_value": 39990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/77e146e153a6079a28e0d7c51d67da9f.jpg",
+        "vin": "LGXCE4CB5T2230020",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_to_sell": "38 days to sell",
+        "registration_expiry": "351 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 3 Premium",
+      "data": {
+        "stock_number": "5267",
+        "vehicle_id": "800500",
+        "status": "SOLD",
+        "date_sold": "13/08/2026",
+        "price_display": "$43,205",
+        "price_value": 43205.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/eac13c965295b02f618abddcecc7296e.jpg",
+        "vin": "LGXCE4CB8TG011121",
+        "yard": "BYD Nunawading",
+        "registration": "2EV5DE",
+        "body_type": "SUV",
+        "odometer_km": "2051",
+        "build_date": "2025/12",
+        "age_to_sell": "204 days to sell",
+        "registration_expiry": "240 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "10075",
+        "vehicle_id": "861639",
+        "status": "SOLD",
+        "date_sold": "13/08/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/86a48e177685290b06976cc9ef43c5ad.jpg",
+        "vin": "LC0CE4CB5T4281220",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8QD",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "78 days to sell",
+        "registration_expiry": "351 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "stock_number": "10313",
+        "vehicle_id": "866245",
+        "status": "SOLD",
+        "date_sold": "13/08/2026",
+        "price_display": "$63,990",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ae329e66e482ca86e61a2e3c1c0c9bf3.jpg",
+        "vin": "LGXCF4CD1T2159543",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8QA",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_to_sell": "136 days to sell",
+        "registration_expiry": "352 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Performance",
+      "data": {
+        "stock_number": "2008",
+        "vehicle_id": "741090",
+        "status": "SOLD",
+        "date_sold": "12/08/2026",
+        "price_display": "$59,472",
+        "price_value": 59472.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/6480e25bbeff94e9ddc86d217bddfa3c.jpg",
+        "vin": "LGXCF4CD9S2231362",
+        "yard": "BYD Caroline Springs",
+        "registration": "DWJ448",
+        "body_type": "SUV",
+        "odometer_km": "11040",
+        "build_date": "2025/08",
+        "age_to_sell": "349 days to sell",
+        "registration_expiry": "104 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "4932",
+        "vehicle_id": "796167",
+        "status": "SOLD",
+        "date_sold": "12/08/2026",
+        "price_display": "$55,676",
+        "price_value": 55676.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/11393f38d0e00efd46eabfccfa05b976.jpg",
+        "vin": "LPE19W2A6TF080257",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "5445",
+        "build_date": "2026/01",
+        "age_to_sell": "209 days to sell",
+        "registration_expiry": "218 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "10879",
+        "vehicle_id": "866812",
+        "status": "SOLD",
+        "date_sold": "12/08/2026",
+        "price_display": "$34,499",
+        "price_value": 34499.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/13748948b0ad322538efe23fe5d811f3.jpg",
+        "vin": "LC0CE4CB1T4278122",
+        "yard": "BYD Caroline Springs",
+        "registration": "2FH8XW",
+        "body_type": "SUV",
+        "odometer_km": "900",
+        "build_date": "2026/05",
+        "age_to_sell": "77 days to sell",
+        "registration_expiry": "307 days"
+      }
+    },
+    {
+      "vehicle": "2017 Lexus IS AVE30R IS300h Luxury Sedan 4dr CVT 1sp, 2.5i/105kW Hybrid",
+      "data": {
+        "stock_number": "13150",
+        "vehicle_id": "900143",
+        "status": "SOLD",
+        "date_sold": "12/08/2026",
+        "price_display": "$18,500",
+        "price_value": 18500.0,
+        "photo_url": "",
+        "vin": "JTHBH1D2X05061182",
+        "yard": "BYD Caroline Springs",
+        "registration": "1KA9VR",
+        "body_type": "Sedan",
+        "odometer_km": "162278",
+        "build_date": "2017/01",
+        "age_to_sell": "0 days to sell",
+        "registration_expiry": "125 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 3 Premium",
+      "data": {
+        "stock_number": "2197",
+        "vehicle_id": "748201",
+        "status": "SOLD",
+        "date_sold": "12/08/2026",
+        "price_display": "$43,165",
+        "price_value": 43165.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/0a6406f4fcb78d904788b63d3f883ad5.jpg",
+        "vin": "LGXCE4CB8S2218376",
+        "yard": "BYD Fairfield",
+        "registration": "2DV7UL",
+        "body_type": "SUV",
+        "odometer_km": "3688",
+        "build_date": "2025/08",
+        "age_to_sell": "363 days to sell",
+        "registration_expiry": "96 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD Sealion 5 Premium",
+      "data": {
+        "stock_number": "3218",
+        "vehicle_id": "772006",
+        "status": "SOLD",
+        "date_sold": "12/08/2026",
+        "price_display": "$36,405",
+        "price_value": 36405.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b68c8ff1fee58cf025ed487dda926626.jpg",
+        "vin": "LC0C74C48T5072608",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "4395",
+        "build_date": "2025/12",
+        "age_to_sell": "252 days to sell",
+        "registration_expiry": "156 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD Sealion 8 Premium AWD",
+      "data": {
+        "stock_number": "3371",
+        "vehicle_id": "775831",
+        "status": "SOLD",
+        "date_sold": "12/08/2026",
+        "price_display": "$68,080",
+        "price_value": 68080.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1552346be79257479d4f0f6a270b7128.jpg",
+        "vin": "LGXCD4C4XS0993469",
+        "yard": "BYD Nunawading",
+        "registration": "2EW5OK",
+        "body_type": "SUV",
+        "odometer_km": "2567",
+        "build_date": "2025/11",
+        "age_to_sell": "257 days to sell",
+        "registration_expiry": "247 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "stock_number": "10323",
+        "vehicle_id": "866255",
+        "status": "SOLD",
+        "date_sold": "12/08/2026",
+        "price_display": "$63,990",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d30529f904a7829a7269d7d935948d8f.jpg",
+        "vin": "LGXCF4CD6T2159571",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8QH",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_to_sell": "135 days to sell",
+        "registration_expiry": "350 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "11395",
+        "vehicle_id": "875552",
+        "status": "SOLD",
+        "date_sold": "12/08/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/cbca3603992ab53e1d4c441cdc4d3c37.jpg",
+        "vin": "LPE19W2A6TF304739",
+        "yard": "BYD Nunawading",
+        "registration": "2FR8QF",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "58 days to sell",
+        "registration_expiry": "351 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "3856",
+        "vehicle_id": "782462",
+        "status": "SOLD",
+        "date_sold": "11/08/2026",
+        "price_display": "$51,554",
+        "price_value": 51554.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e0cb5d6e487d23845d1b7db5974a29c5.jpg",
+        "vin": "LPE19W2A9SF365937",
+        "yard": "BYD Caroline Springs",
+        "registration": "2EG1ZD",
+        "body_type": "UTILITY",
+        "odometer_km": "10414",
+        "build_date": "2025/09",
+        "age_to_sell": "320 days to sell",
+        "registration_expiry": "175 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "3903",
+        "vehicle_id": "782509",
+        "status": "SOLD",
+        "date_sold": "11/08/2026",
+        "price_display": "$51,954",
+        "price_value": 51954.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1eef75ddc9b5dd417579ca4f0bdf2d6a.jpg",
+        "vin": "LGXCH4CD7S2227658",
+        "yard": "BYD Caroline Springs",
+        "registration": "2EL7YA",
+        "body_type": "SUV",
+        "odometer_km": "3025",
+        "build_date": "2025/08",
+        "age_to_sell": "348 days to sell",
+        "registration_expiry": "182 days"
+      }
+    },
+    {
+      "vehicle": "Ford Everest UA II Trend Wagon 7st 5dr Spts Auto 10sp, RWD 2.0DTT [MY19]",
+      "data": {
+        "stock_number": "12558",
+        "vehicle_id": "892313",
+        "status": "SOLD",
+        "date_sold": "11/08/2026",
+        "price_display": "$11,000",
+        "price_value": 11000.0,
+        "photo_url": "",
+        "vin": "MNAAXXMAWAKK59176",
+        "yard": "BYD Caroline Springs",
+        "registration": "AXU354",
+        "body_type": "Wagon",
+        "odometer_km": "225627",
+        "build_date": "",
+        "age_to_sell": "14 days to sell",
+        "registration_expiry": "32 days"
+      }
+    },
+    {
+      "vehicle": "2014 Volkswagen Golf 7 90TSI Comfortline Hatchback 5dr DSG 7sp 1.4T [MY14]",
+      "data": {
+        "stock_number": "13145",
+        "vehicle_id": "900011",
+        "status": "SOLD",
+        "date_sold": "11/08/2026",
+        "price_display": "$6,000",
+        "price_value": 6000.0,
+        "photo_url": "",
+        "vin": "WVWZZZAUZEW113951",
+        "yard": "BYD Caroline Springs",
+        "registration": "1BA5CS",
+        "body_type": "Hatchback",
+        "odometer_km": "136023",
+        "build_date": "2014/01",
+        "age_to_sell": "0 days to sell",
+        "registration_expiry": "Expired -12 days ago"
+      }
+    },
+    {
+      "vehicle": "2025 BYD Sealion 8 Premium AWD",
+      "data": {
+        "stock_number": "4391",
+        "vehicle_id": "787557",
+        "status": "SOLD",
+        "date_sold": "11/08/2026",
+        "price_display": "$67,206",
+        "price_value": 67206.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a983b521f389d56053e6ba8f4c9c3593.jpg",
+        "vin": "LGXCD4C47T0141436",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "6489",
+        "build_date": "2025/12",
+        "age_to_sell": "244 days to sell",
+        "registration_expiry": "213 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "stock_number": "4617",
+        "vehicle_id": "791433",
+        "status": "SOLD",
+        "date_sold": "11/08/2026",
+        "price_display": "$34,489",
+        "price_value": 34489.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/14952f03d788748425136b474d972a7e.jpg",
+        "vin": "LC0C74C41T5087077",
+        "yard": "BYD Nunawading",
+        "registration": "2EN8EW",
+        "body_type": "SUV",
+        "odometer_km": "4641",
+        "build_date": "2026/01",
+        "age_to_sell": "207 days to sell",
+        "registration_expiry": "217 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 3 Premium",
+      "data": {
+        "stock_number": "2217",
+        "vehicle_id": "748221",
+        "status": "SOLD",
+        "date_sold": "10/08/2026",
+        "price_display": "$43,271",
+        "price_value": 43271.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d126d3ef7e14035a39bd9e1d3e6b52a6.jpg",
+        "vin": "LGXCE4CB3S2218611",
+        "yard": "BYD Caroline Springs",
+        "registration": "2DV7UO",
+        "body_type": "SUV",
+        "odometer_km": "5154",
+        "build_date": "2025/08",
+        "age_to_sell": "361 days to sell",
+        "registration_expiry": "96 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD DOLPHIN Premium",
+      "data": {
+        "stock_number": "514",
+        "vehicle_id": "700906",
+        "status": "SOLD",
+        "date_sold": "10/08/2026",
+        "price_display": "$35,435",
+        "price_value": 35435.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/feece26e21008b4a3ad3d608cc45d68e.jpg",
+        "vin": "LC0CE4CB7S0385357",
+        "yard": "BYD Fairfield",
+        "registration": "DQX885",
+        "body_type": "SUV",
+        "odometer_km": "4880",
+        "build_date": "2025/06",
+        "age_to_sell": "419 days to sell",
+        "registration_expiry": "Expires 29/08/2026"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEAL Performance",
+      "data": {
+        "stock_number": "999",
+        "vehicle_id": "715610",
+        "status": "SOLD",
+        "date_sold": "07/08/2026",
+        "price_display": "$58,481",
+        "price_value": 58481.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5888d7bc7b6a0abecc29f362f289660e.jpg",
+        "vin": "LGXCF6CD6S2192418",
+        "yard": "BYD Nunawading",
+        "registration": "2DK5SF",
+        "body_type": "SEDAN",
+        "odometer_km": "6562",
+        "build_date": "2025/06",
+        "age_to_sell": "421 days to sell",
+        "registration_expiry": "35 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 3 Premium",
+      "data": {
+        "stock_number": "3635",
+        "vehicle_id": "777551",
+        "status": "SOLD",
+        "date_sold": "07/08/2026",
+        "price_display": "$41,064",
+        "price_value": 41064.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/74b9d55114dd8b51bb1a0f432c22a953.jpg",
+        "vin": "LGXCE4CB8SG045705",
+        "yard": "BYD Nunawading",
+        "registration": "2EN8EY",
+        "body_type": "SUV",
+        "odometer_km": "2905",
+        "build_date": "2025/12",
+        "age_to_sell": "249 days to sell",
+        "registration_expiry": "217 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "1502",
+        "vehicle_id": "730675",
+        "status": "SOLD",
+        "date_sold": "06/08/2026",
+        "price_display": "$51,365",
+        "price_value": 51365.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7f97f1688b547b8b325ff171054bd274.jpg",
+        "vin": "LPE19W2A0SF197461",
+        "yard": "BYD Caroline Springs",
+        "registration": "2EH6EZ",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/04",
+        "age_to_sell": "473 days to sell",
+        "registration_expiry": "185 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Essential",
+      "data": {
+        "stock_number": "3197",
+        "vehicle_id": "771985",
+        "status": "SOLD",
+        "date_sold": "06/08/2026",
+        "price_display": "$42,990",
+        "price_value": 42990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7a68f6d4c14d7fb4501039863cff6e2b.jpg",
+        "vin": "LGXC74C44S0924722",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/10",
+        "age_to_sell": "284 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2016 Ford Everest UA Titanium Wagon 7st 5dr Spts Auto 6sp, 4WD 3.2DT (Jul) [Jul]",
+      "data": {
+        "stock_number": "12601",
+        "vehicle_id": "893779",
+        "status": "SOLD",
+        "date_sold": "06/08/2026",
+        "price_display": "$18,000",
+        "price_value": 18000.0,
+        "photo_url": "",
+        "vin": "",
+        "yard": "BYD Caroline Springs",
+        "registration": "1HI6TR",
+        "body_type": "Wagon",
+        "odometer_km": "147236",
+        "build_date": "2016/01",
+        "age_to_sell": "8 days to sell",
+        "registration_expiry": "306 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "stock_number": "9597",
+        "vehicle_id": "851785",
+        "status": "SOLD",
+        "date_sold": "06/08/2026",
+        "price_display": "$70,990",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f4428b116278ee82cc6cec20b0ffb693.jpg",
+        "vin": "LGXCD4C42T0234221",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "104 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "11922",
+        "vehicle_id": "880652",
+        "status": "SOLD",
+        "date_sold": "06/08/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ecac9ee09806b640544b246fab931b43.jpg",
+        "vin": "LGXCD4C43T0290913",
+        "yard": "BYD Fairfield",
+        "registration": "2FI5SQ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "66 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "9223",
+        "vehicle_id": "846089",
+        "status": "SOLD",
+        "date_sold": "06/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f9476f330f7cfad10d945015ec4d34db.jpg",
+        "vin": "LGXCH4CD2T2175910",
+        "yard": "BYD Nunawading",
+        "registration": "EBI732",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "99 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10836",
+        "vehicle_id": "866769",
+        "status": "SOLD",
+        "date_sold": "06/08/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/82174461083758974544668aa006759c.jpg",
+        "vin": "LGXCH4CD3T2196362",
+        "yard": "BYD Nunawading",
+        "registration": "2FI9RU",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "71 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Dynamic Extended",
+      "data": {
+        "stock_number": "11920",
+        "vehicle_id": "880650",
+        "status": "SOLD",
+        "date_sold": "06/08/2026",
+        "price_display": "$46,990",
+        "price_value": 46990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/fee9c550e340ffd5285489ada83424a0.jpg",
+        "vin": "LGXC74C47T0279811",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "66 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "HOLDEN ASTRA",
+      "data": {
+        "stock_number": "12650",
+        "vehicle_id": "894444",
+        "status": "SOLD",
+        "date_sold": "05/08/2026",
+        "price_display": "$10,500",
+        "price_value": 10500.0,
+        "photo_url": "",
+        "vin": "W0VBF6EC4HG188267",
+        "yard": "BYD Melbourne City",
+        "registration": "ATE460",
+        "body_type": "5D HATCHBACK",
+        "odometer_km": "45940",
+        "build_date": "",
+        "age_to_sell": "5 days to sell",
+        "registration_expiry": "215 days"
+      }
+    },
+    {
+      "vehicle": "TOYOTA COROLLA ASCENT SPORT HYBRID ZWE219R",
+      "data": {
+        "stock_number": "12555",
+        "vehicle_id": "892046",
+        "status": "SOLD",
+        "date_sold": "05/08/2026",
+        "price_display": "$13,250",
+        "price_value": 13250.0,
+        "photo_url": "",
+        "vin": "JTDBB3BE30J021366",
+        "yard": "BYD Fairfield",
+        "registration": "2DI1ZO",
+        "body_type": "4D SEDAN",
+        "odometer_km": "99896",
+        "build_date": "",
+        "age_to_sell": "8 days to sell",
+        "registration_expiry": "143 days"
+      }
+    },
+    {
+      "vehicle": "2011 Ford Mondeo MC LX TDCi Wagon 5dr PwrShift 6sp, 2.0DT",
+      "data": {
+        "stock_number": "12636",
+        "vehicle_id": "894040",
+        "status": "SOLD",
+        "date_sold": "05/08/2026",
+        "price_display": "$1,250",
+        "price_value": 1250.0,
+        "photo_url": "",
+        "vin": "WF0GXXGBBGBY36836",
+        "yard": "BYD Fairfield",
+        "registration": "1DT9AH",
+        "body_type": "Wagon",
+        "odometer_km": "186000",
+        "build_date": "2011/01",
+        "age_to_sell": "6 days to sell",
+        "registration_expiry": "232 days"
+      }
+    },
+    {
+      "vehicle": "2010 BMW 3",
+      "data": {
+        "stock_number": "11112",
+        "vehicle_id": "869084",
+        "status": "SOLD",
+        "date_sold": "04/08/2026",
+        "price_display": "$3,250",
+        "price_value": 3250.0,
+        "photo_url": "",
+        "vin": "WBAPG76010NN19715",
+        "yard": "BYD Fairfield",
+        "registration": "1CB4IA",
+        "body_type": "4D HATCHBACK",
+        "odometer_km": "104850",
+        "build_date": "2010/06",
+        "age_to_sell": "50 days to sell",
+        "registration_expiry": "Expires 23/09/2026"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "11386",
+        "vehicle_id": "875543",
+        "status": "SOLD",
+        "date_sold": "04/08/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/dcae043ee145d3500047586a60e09cf1.jpg",
+        "vin": "LPE19W2A9TF299441",
+        "yard": "BYD Nunawading",
+        "registration": "2FI9RS",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "52 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2021 Mazda CX-9 TC Touring Wagon 7st 5dr SKYACTIV-Drive 6sp 2.5T",
+      "data": {
+        "stock_number": "12188",
+        "vehicle_id": "883865",
+        "status": "SOLD",
+        "date_sold": "02/08/2026",
+        "price_display": "$25,000",
+        "price_value": 25000.0,
+        "photo_url": "",
+        "vin": "",
+        "yard": "BYD Caroline Springs",
+        "registration": "2AR7TL",
+        "body_type": "Wagon",
+        "odometer_km": "60210",
+        "build_date": "2021/01",
+        "age_to_sell": "23 days to sell",
+        "registration_expiry": "Expired -22 days ago"
+      }
+    },
+    {
+      "vehicle": "2019 HONDA CR-V VTi (2WD) MY19",
+      "data": {
+        "stock_number": "12641",
+        "vehicle_id": "894235",
+        "status": "SOLD",
+        "date_sold": "02/08/2026",
+        "price_display": "$22,100",
+        "price_value": 22100.0,
+        "photo_url": "",
+        "vin": "MRHRW1840KP060469",
+        "yard": "BYD Nunawading",
+        "registration": "1OW3OH",
+        "body_type": "4D WAGON",
+        "odometer_km": "40262",
+        "build_date": "2019/01",
+        "age_to_sell": "3 days to sell",
+        "registration_expiry": "Expires 27/08/2026"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "stock_number": "8323",
+        "vehicle_id": "836923",
+        "status": "SOLD",
+        "date_sold": "01/08/2026",
+        "price_display": "$63,990",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/dc7d9f3fdf3b0a54e250e3594c690833.jpg",
+        "vin": "LGXCF4CD1T2160076",
+        "yard": "BYD Caroline Springs",
+        "registration": "EBI806",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "117 days to sell",
+        "registration_expiry": "323 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "stock_number": "11864",
+        "vehicle_id": "878459",
+        "status": "SOLD",
+        "date_sold": "01/08/2026",
+        "price_display": "$37,990",
+        "price_value": 37990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/aebf4c24e2e132e7804ccd76181f1a81.jpg",
+        "vin": "LC0C74C45T7127519",
+        "yard": "BYD Nunawading",
+        "registration": "2FI5XP",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "50 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD Sealion 8 Premium AWD",
+      "data": {
+        "stock_number": "3391",
+        "vehicle_id": "775851",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$68,189",
+        "price_value": 68189.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/4d2be5b6e0cd3f7dd90ef40797b43343.jpg",
+        "vin": "LGXCD4C46S0987796",
+        "yard": "BYD Melbourne City",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "3395",
+        "build_date": "2025/11",
+        "age_to_sell": "246 days to sell",
+        "registration_expiry": "167 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL 6 Essential",
+      "data": {
+        "stock_number": "11926",
+        "vehicle_id": "880657",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$34,990",
+        "price_value": 34990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b92fc4131b3284cf9087e8fc1623f567.jpg",
+        "vin": "LC0C76C44T6056024",
+        "yard": "BYD Melbourne City",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "49 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "2118",
+        "vehicle_id": "743937",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$34,016",
+        "price_value": 34016.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a8ead04510252a827f3689e423b4d9d9.jpg",
+        "vin": "LC0CE4CBXS4612761",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/10",
+        "age_to_sell": "297 days to sell",
+        "registration_expiry": "158 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "2634",
+        "vehicle_id": "758538",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$45,943",
+        "price_value": 45943.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ca46077e754b6b73725ce81269e3c120.jpg",
+        "vin": "LGXCH4CD0S2216727",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "5000",
+        "build_date": "2025/08",
+        "age_to_sell": "364 days to sell",
+        "registration_expiry": "247 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEAL Premium",
+      "data": {
+        "stock_number": "2903",
+        "vehicle_id": "765836",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$49,810",
+        "price_value": 49810.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a5446b8743f47c09d3179e7541a71041.jpg",
+        "vin": "LGXCH6CD3S2258840",
+        "yard": "BYD Caroline Springs",
+        "registration": "2EH6FG",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_to_sell": "267 days to sell",
+        "registration_expiry": "185 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD Sealion 8 Premium AWD",
+      "data": {
+        "stock_number": "3373",
+        "vehicle_id": "775833",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$60,822",
+        "price_value": 60822.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7a6cf8cd3026d00935b42eb4462afcfc.jpg",
+        "vin": "LGXCD4C4XS0987980",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "851",
+        "build_date": "2025/11",
+        "age_to_sell": "245 days to sell",
+        "registration_expiry": "157 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD Sealion 8 Premium AWD",
+      "data": {
+        "stock_number": "3378",
+        "vehicle_id": "775838",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$66,130",
+        "price_value": 66130.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/151d240c72c39ae3ff26b524cb51a781.jpg",
+        "vin": "LGXCD4C49S0993432",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "5500",
+        "build_date": "2025/11",
+        "age_to_sell": "245 days to sell",
+        "registration_expiry": "158 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "3562",
+        "vehicle_id": "777477",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5ad21dc47edf16e25fed373e63f13715.jpg",
+        "vin": "LPE19W2A1SF377418",
+        "yard": "BYD Caroline Springs",
+        "registration": "2FI9TT",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/10",
+        "age_to_sell": "294 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "3884",
+        "vehicle_id": "782490",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$50,710",
+        "price_value": 50710.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/987e67d5b2cadb16f7d4270cf0bdc0ae.jpg",
+        "vin": "LGXCD4C45S0642209",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "105",
+        "build_date": "2025/06",
+        "age_to_sell": "403 days to sell",
+        "registration_expiry": "217 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "8657",
+        "vehicle_id": "841243",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/70597c806a1c2fde61e882b0f5c0c5c6.jpg",
+        "vin": "LPE19W2A6TF221716",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "93 days to sell",
+        "registration_expiry": "308 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "9256",
+        "vehicle_id": "846122",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/92d8f1cc4e74bcbcf804d5e8a37a2b21.jpg",
+        "vin": "LGXCH4CD8T2166709",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "93 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "stock_number": "10336",
+        "vehicle_id": "866268",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$70,990",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/0b6d8377aaaa8d9cf73325facac01418.jpg",
+        "vin": "LGXCD4C4XT0229445",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "107 days to sell",
+        "registration_expiry": "338 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10858",
+        "vehicle_id": "866791",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/88d66b12e3cf28417aacd6dc0f2c2c87.jpg",
+        "vin": "LGXCH4CDXT2196200",
+        "yard": "BYD Caroline Springs",
+        "registration": "YMW",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "65 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "11390",
+        "vehicle_id": "875547",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e250a3c01eaf70b4fd81dc06ec8397c1.jpg",
+        "vin": "LPE19W2A6TF304692",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "47 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "1503",
+        "vehicle_id": "730676",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$51,067",
+        "price_value": 51067.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/16e2ef3a497059dc5e7558f4e8729f36.jpg",
+        "vin": "LPE19W2A1SF196111",
+        "yard": "BYD Wodonga",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "7230",
+        "build_date": "2025/04",
+        "age_to_sell": "468 days to sell",
+        "registration_expiry": "96 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD Sealion 8 Premium AWD",
+      "data": {
+        "stock_number": "3379",
+        "vehicle_id": "775839",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$62,832",
+        "price_value": 62832.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c8361a04ddd86eea34d8f86ae9683e3c.jpg",
+        "vin": "LGXCD4C48S0987945",
+        "yard": "BYD Wodonga",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "1000",
+        "build_date": "2025/11",
+        "age_to_sell": "246 days to sell",
+        "registration_expiry": "158 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL Premium",
+      "data": {
+        "stock_number": "10265",
+        "vehicle_id": "863117",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/4d43134e2cdeb8017ee0162345310029.jpg",
+        "vin": "LGXCH6CD2T2199572",
+        "yard": "BYD Wodonga",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "63 days to sell",
+        "registration_expiry": "338 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "stock_number": "10424",
+        "vehicle_id": "866356",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$70,990",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/9ef841a649f8c4320de6d130f97bbe7a.jpg",
+        "vin": "LGXCD4C41T0241399",
+        "yard": "BYD Wodonga",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "83 days to sell",
+        "registration_expiry": "332 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "stock_number": "12100",
+        "vehicle_id": "881890",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$62,900",
+        "price_value": 62900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/353d176139ebdcdd4b44336fc2609720.jpg",
+        "vin": "LPE19W2A5TF300004",
+        "yard": "BYD Wodonga",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "25",
+        "build_date": "2026/06",
+        "age_to_sell": "48 days to sell",
+        "registration_expiry": "338 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "6810",
+        "vehicle_id": "814565",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/bc4681e051d022ec7225ec9371d3a949.jpg",
+        "vin": "LGXCD4C43T0197812",
+        "yard": "BYD Fairfield",
+        "registration": "2EX9VZ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_to_sell": "136 days to sell",
+        "registration_expiry": "290 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "10409",
+        "vehicle_id": "866341",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a6caddae42ee2d5f9bbb5d16b1b0bef1.jpg",
+        "vin": "LGXCD4C43T0253618",
+        "yard": "BYD Fairfield",
+        "registration": "2FI8XO",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "84 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "stock_number": "11053",
+        "vehicle_id": "866986",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$36,990",
+        "price_value": 36990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/347c450382cfc940c7a70fcb44ace472.jpg",
+        "vin": "LC0CE4CB4T0150660",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "62 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "stock_number": "11856",
+        "vehicle_id": "878451",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$37,990",
+        "price_value": 37990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/769a712b8b44bd38051885d621e68fba.jpg",
+        "vin": "LC0C74C4XT7127399",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "49 days to sell",
+        "registration_expiry": "338 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "11881",
+        "vehicle_id": "878476",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ac8575cd81fd8763475a9ca08c52a5e0.jpg",
+        "vin": "LC0CE4CB0T4333904",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "43 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "11887",
+        "vehicle_id": "878482",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/640fb355ec93c7dfa93b9eb917707caf.jpg",
+        "vin": "LC0CE4CBXT4333876",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "43 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Dynamic Extended",
+      "data": {
+        "stock_number": "11921",
+        "vehicle_id": "880651",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$46,990",
+        "price_value": 46990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8c97592792f49037dc050dd1fc1e5726.jpg",
+        "vin": "LGXC74C47T0279906",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "60 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "12111",
+        "vehicle_id": "881901",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7ba16a49ee5237f4a2bb99bb4b60bfbc.jpg",
+        "vin": "LC0CE4CB4T4281161",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "47 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "12119",
+        "vehicle_id": "881909",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/24eb3349ccda7d59265ee92f4e3f4f15.jpg",
+        "vin": "LC0CE4CB2T4325979",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "43 days to sell",
+        "registration_expiry": "338 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "stock_number": "12142",
+        "vehicle_id": "881933",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$63,990",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/6abeef758f192b25de67bf9c54cf8313.jpg",
+        "vin": "LGXCD4C46T0307364",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "36 days to sell",
+        "registration_expiry": "337 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "2338",
+        "vehicle_id": "753331",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$48,886",
+        "price_value": 48886.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d776889871de1db4681e6683751dd9f4.jpg",
+        "vin": "LGXCH4CD4S2242263",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "7788",
+        "build_date": "2025/09",
+        "age_to_sell": "314 days to sell",
+        "registration_expiry": "119 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "2625",
+        "vehicle_id": "758529",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$50,336",
+        "price_value": 50336.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/800c43f6521d837a8589b64c9909db7b.jpg",
+        "vin": "LGXCH4CD2S2216700",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "3907",
+        "build_date": "2025/08",
+        "age_to_sell": "364 days to sell",
+        "registration_expiry": "240 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 3 Premium",
+      "data": {
+        "stock_number": "3634",
+        "vehicle_id": "777550",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$44,990",
+        "price_value": 44990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f09199dbd611b7a9f722930ebf375567.jpg",
+        "vin": "LGXCE4CB8SG045736",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/12",
+        "age_to_sell": "242 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 3 Premium",
+      "data": {
+        "stock_number": "6528",
+        "vehicle_id": "814240",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$44,990",
+        "price_value": 44990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c1aca12dde0ee78eb66a99ccd4545c58.jpg",
+        "vin": "LGXCE4CB5TG007107",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/12",
+        "age_to_sell": "170 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "6706",
+        "vehicle_id": "814459",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/885867f8545be6e95a6f661d5b62a3d8.jpg",
+        "vin": "LGXCH4CD6T2146460",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_to_sell": "138 days to sell",
+        "registration_expiry": "337 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "stock_number": "7180",
+        "vehicle_id": "821156",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$62,900",
+        "price_value": 62900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1df597f34b75898a394dc55274f27337.jpg",
+        "vin": "LPE19W2A6TF170198",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_to_sell": "128 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "9635",
+        "vehicle_id": "851823",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/07290fdef82300b888f129983daee492.jpg",
+        "vin": "LGXCD4C4XT0253616",
+        "yard": "BYD Nunawading",
+        "registration": "2FE3VI",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "84 days to sell",
+        "registration_expiry": "Expired -10 days ago"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Dynamic",
+      "data": {
+        "stock_number": "9643",
+        "vehicle_id": "851831",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$31,990",
+        "price_value": 31990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ac0fbb2566f43dc172e6c86b1add535d.jpg",
+        "vin": "LC0CE4CB7T4220595",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "83 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL Premium",
+      "data": {
+        "stock_number": "10039",
+        "vehicle_id": "861603",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/bd0bf22cc08edc68115519bc1a5c47c1.jpg",
+        "vin": "LGXCH6CD3T2191092",
+        "yard": "BYD Nunawading",
+        "registration": "2FI9IO",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "71 days to sell",
+        "registration_expiry": "336 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "10064",
+        "vehicle_id": "861628",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b04a5e57a45be2763a14b1fea2ec3afa.jpg",
+        "vin": "LC0CE4CB9T4281298",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "65 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10489",
+        "vehicle_id": "866421",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8f3aa4318d00482fe6ddaac1c42dcb9a.jpg",
+        "vin": "LGXCH4CDXT2188372",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "73 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10658",
+        "vehicle_id": "866591",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1f0d14775a0898183f36c11a388c37b9.jpg",
+        "vin": "LGXCH4CD2T2188186",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "73 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Dynamic",
+      "data": {
+        "stock_number": "10689",
+        "vehicle_id": "866622",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$31,990",
+        "price_value": 31990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/6ac1800621975671e57ecb1082efe9f8.jpg",
+        "vin": "LC0CE4CBXT4237827",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "71 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10861",
+        "vehicle_id": "866794",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/156661efac74e7318c3237a730f5a6f5.jpg",
+        "vin": "LGXCH4CDXT2196357",
+        "yard": "BYD Nunawading",
+        "registration": "2FI9IP",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "65 days to sell",
+        "registration_expiry": "336 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "10914",
+        "vehicle_id": "866847",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8a03f73b55408a3c1cffdfc4828b1288.jpg",
+        "vin": "LC0CE4CBXT4278135",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "65 days to sell",
+        "registration_expiry": "337 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10987",
+        "vehicle_id": "866920",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f1ad078ee1d7f841d08a786a30c771e7.jpg",
+        "vin": "LGXCH4CD8T2194171",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "63 days to sell",
+        "registration_expiry": "338 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "11375",
+        "vehicle_id": "875532",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b3d91b8f38c92f7a43d48086ee953b06.jpg",
+        "vin": "LPE19W2A2TF299457",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "48 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "11380",
+        "vehicle_id": "875537",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/74803c9165979d2afce0711a40aabe42.jpg",
+        "vin": "LPE19W2A4TF299489",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "48 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "11387",
+        "vehicle_id": "875544",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/3ccb29077bd7f3a051ec703927501ec1.jpg",
+        "vin": "LPE19W2AXTF299481",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "48 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Dynamic",
+      "data": {
+        "stock_number": "11869",
+        "vehicle_id": "878464",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$31,990",
+        "price_value": 31990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f7b2ac4742a19fc9870d56e7ea155ab6.jpg",
+        "vin": "LC0CE4CB9T4237947",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "48 days to sell",
+        "registration_expiry": "336 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "11883",
+        "vehicle_id": "878478",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/2fee190318930d3f73bf9651bf7ea59d.jpg",
+        "vin": "LC0CE4CB2T4324833",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "43 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "12041",
+        "vehicle_id": "881830",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d433b729be063eff2c980e92459ad7cb.jpg",
+        "vin": "LGXCH4CD8T2202415",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "50 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "stock_number": "12133",
+        "vehicle_id": "881924",
+        "status": "SOLD",
+        "date_sold": "31/07/2026",
+        "price_display": "$63,990",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b46d209d9a7d04ca2d52b0b38ff79fb4.jpg",
+        "vin": "LGXCD4C49T0307360",
+        "yard": "BYD Nunawading",
+        "registration": "2FI5XM",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "37 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "9696",
+        "vehicle_id": "851884",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/6471cb7152724f3cf8ca5ac2ae23bcd7.jpg",
+        "vin": "LC0CE4CBXT4201152",
+        "yard": "BYD Melbourne City",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "78 days to sell",
+        "registration_expiry": "337 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium",
+      "data": {
+        "stock_number": "411",
+        "vehicle_id": "693481",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$45,078",
+        "price_value": 45078.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/77a8be20d74680f004c55edab30bb825.jpg",
+        "vin": "LGXCD4C44S0455124",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "5015",
+        "build_date": "2025/04",
+        "age_to_sell": "459 days to sell",
+        "registration_expiry": "151 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 3 Premium",
+      "data": {
+        "stock_number": "5264",
+        "vehicle_id": "800497",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$42,024",
+        "price_value": 42024.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/117a058f589884a182e202b8c7644792.jpg",
+        "vin": "LGXCE4CB4TG010726",
+        "yard": "BYD Caroline Springs",
+        "registration": "2EV5DG",
+        "body_type": "SUV",
+        "odometer_km": "1700",
+        "build_date": "2025/12",
+        "age_to_sell": "190 days to sell",
+        "registration_expiry": "240 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 1 Essential",
+      "data": {
+        "stock_number": "5526",
+        "vehicle_id": "803044",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$23,990",
+        "price_value": 23990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b0958da6b1d7d69eae66b380b212c066.jpg",
+        "vin": "LGXCE4CC5T2114681",
+        "yard": "BYD Caroline Springs",
+        "registration": "2FI9MG",
+        "body_type": "HATCHBACK",
+        "odometer_km": "0",
+        "build_date": "2026/01",
+        "age_to_sell": "183 days to sell",
+        "registration_expiry": "325 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "9228",
+        "vehicle_id": "846094",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c1e133e7a4a9808a836ac3b0124e57d0.jpg",
+        "vin": "LGXCH4CD3T2174510",
+        "yard": "BYD Caroline Springs",
+        "registration": "2FI9AF",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "92 days to sell",
+        "registration_expiry": "337 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL 6 Touring Premium",
+      "data": {
+        "stock_number": "9311",
+        "vehicle_id": "846177",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$39,990",
+        "price_value": 39990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d7ad8c5eed02a6fe8aa38fcf4a9fbaf3.jpg",
+        "vin": "LC0C74C4XT4206427",
+        "yard": "BYD Wodonga",
+        "registration": "",
+        "body_type": "WAGON",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "87 days to sell",
+        "registration_expiry": "336 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "10109",
+        "vehicle_id": "861673",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/9baf4b87f9813caa950ba2160be6e730.jpg",
+        "vin": "LPE19W2A7TF276594",
+        "yard": "BYD Wodonga",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "62 days to sell",
+        "registration_expiry": "337 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 1 Premium",
+      "data": {
+        "stock_number": "3120",
+        "vehicle_id": "769251",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$27,775",
+        "price_value": 27775.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/3fc77bf901fb04a7073f35fc675720be.jpg",
+        "vin": "LGXCE4CB9S2274181",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "HATCHBACK",
+        "odometer_km": "3695",
+        "build_date": "2025/11",
+        "age_to_sell": "251 days to sell",
+        "registration_expiry": "142 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "5821",
+        "vehicle_id": "804789",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$55,725",
+        "price_value": 55725.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/fc20390a2c6d35aa986ca1d56e1b56d7.jpg",
+        "vin": "LPE19W2A1TF126304",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "603",
+        "build_date": "2026/03",
+        "age_to_sell": "150 days to sell",
+        "registration_expiry": "241 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "stock_number": "11847",
+        "vehicle_id": "878442",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$37,990",
+        "price_value": 37990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/fd98b196bf2545a40ced3d1fca599fb3.jpg",
+        "vin": "LC0C74C41T7127503",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "48 days to sell",
+        "registration_expiry": "336 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "stock_number": "11848",
+        "vehicle_id": "878443",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$37,990",
+        "price_value": 37990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/96184fe3f50b2f2fda2d2ffcfa2a8aad.jpg",
+        "vin": "LC0C74C43T7127485",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "48 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "stock_number": "11858",
+        "vehicle_id": "878453",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$37,990",
+        "price_value": 37990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e22503ac252612b528536af75f131485.jpg",
+        "vin": "LC0C74C45T7112468",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "48 days to sell",
+        "registration_expiry": "337 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "11876",
+        "vehicle_id": "878471",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1932823bbb90b1fcad5d3e99b1a0212f.jpg",
+        "vin": "LC0CE4CB8T4324819",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "46 days to sell",
+        "registration_expiry": "336 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "11885",
+        "vehicle_id": "878480",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/75a281fb7128ab26ac0a717dee0293e6.jpg",
+        "vin": "LC0CE4CB6T4333860",
+        "yard": "BYD Fairfield",
+        "registration": "2FI8WJ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "42 days to sell",
+        "registration_expiry": "336 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "12025",
+        "vehicle_id": "881814",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/defe22c762bf208fcdc2e40840d2fb38.jpg",
+        "vin": "LGXCH4CD9T2208465",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "49 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL Performance",
+      "data": {
+        "stock_number": "6732",
+        "vehicle_id": "814486",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$61,990",
+        "price_value": 61990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5a0cc25c0190d84e7a79e065d73e890c.jpg",
+        "vin": "LGXCF6CD3T2142139",
+        "yard": "BYD Nunawading",
+        "registration": "VDL818",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_to_sell": "137 days to sell",
+        "registration_expiry": "336 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "stock_number": "10088",
+        "vehicle_id": "861652",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$57,900",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f1501c35a84df9dec9546a2f6dc861b7.jpg",
+        "vin": "LPE19W2A4TF257419",
+        "yard": "BYD Nunawading",
+        "registration": "2FI9RN",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "63 days to sell",
+        "registration_expiry": "338 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "11925",
+        "vehicle_id": "880656",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ed733c9bc77b2160b821a6c2ee0574eb.jpg",
+        "vin": "LGXCH4CD0T2208645",
+        "yard": "BYD Nunawading",
+        "registration": "2FI9RJ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "49 days to sell",
+        "registration_expiry": "337 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "stock_number": "12114",
+        "vehicle_id": "881904",
+        "status": "SOLD",
+        "date_sold": "30/07/2026",
+        "price_display": "$62,900",
+        "price_value": 62900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/4c5352487edf1f419649d54ed555c427.jpg",
+        "vin": "LPE19W2A5TF299971",
+        "yard": "BYD Nunawading",
+        "registration": "2FI5XF",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "46 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "9250",
+        "vehicle_id": "846116",
+        "status": "SOLD",
+        "date_sold": "29/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d7a5d1a91e93fdb13ddda3b2fcfbeda4.jpg",
+        "vin": "LGXCH4CD7T2174235",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "91 days to sell",
+        "registration_expiry": "331 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10488",
+        "vehicle_id": "866420",
+        "status": "SOLD",
+        "date_sold": "29/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e8ae5d709ad3de60b83854f38c7ab858.jpg",
+        "vin": "LGXCH4CD8T2188242",
+        "yard": "BYD Fairfield",
+        "registration": "2FI8WL",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "71 days to sell",
+        "registration_expiry": "337 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "9917",
+        "vehicle_id": "856934",
+        "status": "SOLD",
+        "date_sold": "29/07/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/2cd1d5d7a5754498558be8a67e970de3.jpg",
+        "vin": "LGXCD4C40T0253009",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "83 days to sell",
+        "registration_expiry": "339 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "12118",
+        "vehicle_id": "881908",
+        "status": "SOLD",
+        "date_sold": "29/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/29d517e1df1a2ef1f764bac72f32e600.jpg",
+        "vin": "LC0CE4CB1T4333765",
+        "yard": "BYD Nunawading",
+        "registration": "2FI5XC",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "41 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic FWD",
+      "data": {
+        "stock_number": "11540",
+        "vehicle_id": "877450",
+        "status": "SOLD",
+        "date_sold": "28/07/2026",
+        "price_display": "$56,990",
+        "price_value": 56990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/15933d3115dc34bffdc2fbb8c37e0831.jpg",
+        "vin": "LGXC74C44T0216357",
+        "yard": "BYD Melbourne City",
+        "registration": "2FI5VX",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_to_sell": "121 days to sell",
+        "registration_expiry": "330 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "3872",
+        "vehicle_id": "782478",
+        "status": "SOLD",
+        "date_sold": "28/07/2026",
+        "price_display": "$45,377",
+        "price_value": 45377.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/390520205a40e1a2b99880b2c0d247ff.jpg",
+        "vin": "LGXCD4C45S0961609",
+        "yard": "BYD Caroline Springs",
+        "registration": "2EH6FP",
+        "body_type": "SUV",
+        "odometer_km": "3500",
+        "build_date": "2025/10",
+        "age_to_sell": "275 days to sell",
+        "registration_expiry": "184 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "stock_number": "11865",
+        "vehicle_id": "878460",
+        "status": "SOLD",
+        "date_sold": "28/07/2026",
+        "price_display": "$37,990",
+        "price_value": 37990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b8508b5fae3b614147df593cf35e2c7e.jpg",
+        "vin": "LC0C74C47T7127523",
+        "yard": "BYD Wodonga",
+        "registration": "2EZ8TG",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "46 days to sell",
+        "registration_expiry": "336 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "stock_number": "11852",
+        "vehicle_id": "878447",
+        "status": "SOLD",
+        "date_sold": "28/07/2026",
+        "price_display": "$37,990",
+        "price_value": 37990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f998c989f4f62ed40505d2600033278d.jpg",
+        "vin": "LC0C74C49T7127409",
+        "yard": "BYD Fairfield",
+        "registration": "2FI5SK",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "46 days to sell",
+        "registration_expiry": "332 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "11884",
+        "vehicle_id": "878479",
+        "status": "SOLD",
+        "date_sold": "28/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/595a555f945c785b45b011b20acd2f5c.jpg",
+        "vin": "LC0CE4CB4T4333890",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "40 days to sell",
+        "registration_expiry": "329 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD Sealion 5 Premium",
+      "data": {
+        "stock_number": "3211",
+        "vehicle_id": "771999",
+        "status": "SOLD",
+        "date_sold": "28/07/2026",
+        "price_display": "$37,990",
+        "price_value": 37990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/fce4a4c3c19fbce3e3ef371b58622b4c.jpg",
+        "vin": "LC0C74C45T5072484",
+        "yard": "BYD Nunawading",
+        "registration": "2EH6FI",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/12",
+        "age_to_sell": "236 days to sell",
+        "registration_expiry": "185 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 1 Premium",
+      "data": {
+        "stock_number": "10523",
+        "vehicle_id": "866455",
+        "status": "SOLD",
+        "date_sold": "28/07/2026",
+        "price_display": "$27,990",
+        "price_value": 27990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/578778c503a4af13811373078c2eed7b.jpg",
+        "vin": "LGXCE4CB4T2177505",
+        "yard": "BYD Nunawading",
+        "registration": "2FI5XK",
+        "body_type": "HATCHBACK",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "90 days to sell",
+        "registration_expiry": "336 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "stock_number": "5586",
+        "vehicle_id": "804554",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$35,935",
+        "price_value": 35935.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7d6b09eb39b77914cc16fd640373114a.jpg",
+        "vin": "LC0CE4CB1T0070846",
+        "yard": "BYD Melbourne City",
+        "registration": "2EV5DQ",
+        "body_type": "SUV",
+        "odometer_km": "2300",
+        "build_date": "2026/01",
+        "age_to_sell": "174 days to sell",
+        "registration_expiry": "241 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "9607",
+        "vehicle_id": "851795",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/bdf18f55b16371adccb8f524ad854ff4.jpg",
+        "vin": "LC0CE4CB0T4213925",
+        "yard": "BYD Melbourne City",
+        "registration": "2FH2PZ",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "80 days to sell",
+        "registration_expiry": "310 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Essential",
+      "data": {
+        "stock_number": "10604",
+        "vehicle_id": "866536",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$29,990",
+        "price_value": 29990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e4919cbed57fec1cf4eaeda61b7bcb5f.jpg",
+        "vin": "LC0CE4CC5T0107597",
+        "yard": "BYD Melbourne City",
+        "registration": "2FI5VK",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "76 days to sell",
+        "registration_expiry": "328 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "2587",
+        "vehicle_id": "758491",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$51,784",
+        "price_value": 51784.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/98a3e0b25b0e9ebba108568a8b60f647.jpg",
+        "vin": "LGXCH4CD8S2212697",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "3051",
+        "build_date": "2025/07",
+        "age_to_sell": "367 days to sell",
+        "registration_expiry": "157 days"
+      }
+    },
+    {
+      "vehicle": "2023 MG MG5 Essence Sedan 4dr SA DCT 7sp 1.5T [MY23]",
+      "data": {
+        "stock_number": "12548",
+        "vehicle_id": "891798",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$15,000",
+        "price_value": 15000.0,
+        "photo_url": "",
+        "vin": "",
+        "yard": "BYD Caroline Springs",
+        "registration": "1YQ5PC",
+        "body_type": "Sedan",
+        "odometer_km": "54800",
+        "build_date": "2023/01",
+        "age_to_sell": "0 days to sell",
+        "registration_expiry": "Expires 08/09/2026"
+      }
+    },
+    {
+      "vehicle": "2010 Dodge Nitro KA SX Wagon 5dr Auto 4sp 4WD 3.7i [MY09]",
+      "data": {
+        "stock_number": "12554",
+        "vehicle_id": "891907",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$3,133",
+        "price_value": 3133.0,
+        "photo_url": "",
+        "vin": "",
+        "yard": "BYD Caroline Springs",
+        "registration": "AAT744",
+        "body_type": "Wagon",
+        "odometer_km": "121607",
+        "build_date": "2010/01",
+        "age_to_sell": "0 days to sell",
+        "registration_expiry": "123 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "9533",
+        "vehicle_id": "848817",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5e933f1e02a9b8a304ba84ee7099fa54.jpg",
+        "vin": "LC0CE4CB7T4211458",
+        "yard": "BYD Wodonga",
+        "registration": "GDS49F",
+        "body_type": "SUV",
+        "odometer_km": "15",
+        "build_date": "2026/05",
+        "age_to_sell": "76 days to sell",
+        "registration_expiry": "331 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 3 Premium",
+      "data": {
+        "stock_number": "2210",
+        "vehicle_id": "748214",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$43,155",
+        "price_value": 43155.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8580e4c9af43bdc57c41798e4eb9f16d.jpg",
+        "vin": "LGXCE4CB5S2218559",
+        "yard": "BYD Fairfield",
+        "registration": "2DV7UX",
+        "body_type": "SUV",
+        "odometer_km": "4500",
+        "build_date": "2025/09",
+        "age_to_sell": "347 days to sell",
+        "registration_expiry": "96 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "stock_number": "8330",
+        "vehicle_id": "836930",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$63,990",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1348f8329102e18f82c373b36e87a3a6.jpg",
+        "vin": "LGXCF4CD1T2160868",
+        "yard": "BYD Fairfield",
+        "registration": "EBI798",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "107 days to sell",
+        "registration_expiry": "332 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "9288",
+        "vehicle_id": "846154",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/6a56cf0819fd6240dc6253ccb291ba37.jpg",
+        "vin": "LC0CE4CB3T4213692",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_to_sell": "88 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10484",
+        "vehicle_id": "866416",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ac762c9331d2fe2df8b8f71d5478b016.jpg",
+        "vin": "LGXCH4CD7T2188071",
+        "yard": "BYD Fairfield",
+        "registration": "2FI5SI",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "69 days to sell",
+        "registration_expiry": "331 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Essential",
+      "data": {
+        "stock_number": "10603",
+        "vehicle_id": "866535",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$29,990",
+        "price_value": 29990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b11364e1ec00b3d02aa0a4203fe8387b.jpg",
+        "vin": "LC0CE4CC1T0111095",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "76 days to sell",
+        "registration_expiry": "332 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL Performance",
+      "data": {
+        "stock_number": "10706",
+        "vehicle_id": "866639",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$61,990",
+        "price_value": 61990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e2f7b5004137959eac58e393858b661a.jpg",
+        "vin": "LGXCF6CD9T2180622",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "66 days to sell",
+        "registration_expiry": "332 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "11875",
+        "vehicle_id": "878470",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1b5f370d0de2f71cdddb9a8738d38d5a.jpg",
+        "vin": "LC0CE4CB6T4324799",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "43 days to sell",
+        "registration_expiry": "332 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Performance",
+      "data": {
+        "stock_number": "3681",
+        "vehicle_id": "779211",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$61,399",
+        "price_value": 61399.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/31fb5e0dde8613aca71774ddca980906.jpg",
+        "vin": "LGXCF4CD2S2248505",
+        "yard": "BYD Nunawading",
+        "registration": "2EN8GC",
+        "body_type": "SUV",
+        "odometer_km": "3796",
+        "build_date": "2025/10",
+        "age_to_sell": "294 days to sell",
+        "registration_expiry": "213 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "9788",
+        "vehicle_id": "853876",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/52e0698c781f38a653079f33908e8ab8.jpg",
+        "vin": "LGXCH4CD9T2181414",
+        "yard": "BYD Nunawading",
+        "registration": "RAJI9",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "80 days to sell",
+        "registration_expiry": "332 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "9947",
+        "vehicle_id": "856964",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b13dac7f1ff4b1d994748aba632f24db.jpg",
+        "vin": "LC0CE4CB4T4256518",
+        "yard": "BYD Nunawading",
+        "registration": "ECT272",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "68 days to sell",
+        "registration_expiry": "332 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "stock_number": "10239",
+        "vehicle_id": "863091",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$54,990",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/cd9ae12f47728609c453a0ec9e95dc48.jpg",
+        "vin": "LGXCH4CDXT2196066",
+        "yard": "BYD Nunawading",
+        "registration": "2FI9SE",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "61 days to sell",
+        "registration_expiry": "332 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "10721",
+        "vehicle_id": "866654",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7f03eea4eab451335bcd6f8179cdbcea.jpg",
+        "vin": "LGXCD4C4XT0275292",
+        "yard": "BYD Nunawading",
+        "registration": "YG168",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_to_sell": "66 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "11877",
+        "vehicle_id": "878472",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/dc2079c038178698a4df5f47acb5c791.jpg",
+        "vin": "LC0CE4CB0T4324796",
+        "yard": "BYD Nunawading",
+        "registration": "2FI5XD",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "42 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "stock_number": "11882",
+        "vehicle_id": "878477",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$35,990",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/65ba1e9d7c5a37db22dba589faab27b9.jpg",
+        "vin": "LC0CE4CB1T4333913",
+        "yard": "BYD Nunawading",
+        "registration": "2FI5XV",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "39 days to sell",
+        "registration_expiry": "332 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "stock_number": "11927",
+        "vehicle_id": "880658",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$62,900",
+        "price_value": 62900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/03df415e0bd8f9f940ed781e2fa7b1b9.jpg",
+        "vin": "LPE19W2A7TF300019",
+        "yard": "BYD Nunawading",
+        "registration": "2FI5XQ",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "44 days to sell",
+        "registration_expiry": "335 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "stock_number": "11996",
+        "vehicle_id": "881784",
+        "status": "SOLD",
+        "date_sold": "27/07/2026",
+        "price_display": "$52,990",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a103da265b82d883ab14a03d56e76d0b.jpg",
+        "vin": "LGXCD4C46T0288282",
+        "yard": "BYD Nunawading",
+        "registration": "2FI5XS",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_to_sell": "56 days to sell",
+        "registration_expiry": "332 days"
+      }
+    }
+  ]
+}

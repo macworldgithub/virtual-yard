@@ -1,0 +1,3654 @@
+{
+  "total": 192,
+  "reported_total": 192,
+  "vehicles": [
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium Wagon 5dr Auto 1sp 130kW [MY25]",
+      "data": {
+        "vehicle_id": "841333",
+        "status": "IN-STOCK",
+        "price_display": "$37,990",
+        "price_label": "Drive Away",
+        "price_value": 37990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c5e60281b9c414119355e8889e2db958.jpg",
+        "vin": "LC0CE4CB3T4186820",
+        "yard": "BYD Wagga Wagga",
+        "registration": "GDR52H",
+        "body_type": "Wagon",
+        "odometer_km": "15",
+        "build_date": "2026/04",
+        "age_days": "125 days",
+        "registration_expiry": "307 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "878027",
+        "status": "IN-STOCK",
+        "price_display": "$63,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/9cb9bb4b008d058d59a5ebd83131b802.jpg",
+        "vin": "LGXCF4CD8T2192717",
+        "yard": "BYD Wagga Wagga",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "88 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Dynamic Extended",
+      "data": {
+        "vehicle_id": "693215",
+        "status": "IN-STOCK",
+        "price_display": "$46,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 46990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5751be57d1205ef8e9e80fdfac4015fb.jpg",
+        "vin": "LGXC74C43S0322488",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/03",
+        "age_days": "523 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Dynamic Extended",
+      "data": {
+        "vehicle_id": "693223",
+        "status": "IN-STOCK",
+        "price_display": "$46,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 46990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/9a6c2ef627f94b3b5a6b6de845ed1686.jpg",
+        "vin": "LGXC74C46S0322484",
+        "yard": "BYD Haberfield",
+        "registration": "FWJ94M",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/03",
+        "age_days": "523 days",
+        "registration_expiry": "92 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Dynamic Extended",
+      "data": {
+        "vehicle_id": "693238",
+        "status": "IN-STOCK",
+        "price_display": "$47,890",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 47890.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8e6e2bb23cbd3c7c614beff3cfd9d69a.jpg",
+        "vin": "LGXC74C4XS0368870",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/04",
+        "age_days": "509 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "693366",
+        "status": "IN-STOCK",
+        "price_display": "$57,900",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/6fcca29d80c6ee0d3ddac4c127c4bb2e.jpg",
+        "vin": "LPE19W2A9SF207646",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/04",
+        "age_days": "482 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "695829",
+        "status": "IN-TRANSIT",
+        "price_display": "$56,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/866f60e0693df82ca894ae5698590fe2.jpg",
+        "vin": "LGXCH4CD6S2172877",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/05",
+        "age_days": "452 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "695950",
+        "status": "IN-STOCK",
+        "price_display": "$54,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b8ca1c43552f25cf972b1d469643903c.jpg",
+        "vin": "LGXCH4CD7S2169874",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/05",
+        "age_days": "454 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "695952",
+        "status": "IN-STOCK",
+        "price_display": "$65,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8b646452439899254e8df61e52291d50.jpg",
+        "vin": "LGXCF4CD1S2170198",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/05",
+        "age_days": "462 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "695956",
+        "status": "IN-STOCK",
+        "price_display": "$54,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ba3732eb52739279c3f802a546aea400.jpg",
+        "vin": "LGXCH4CD4S2176717",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/05",
+        "age_days": "452 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD DOLPHIN Essential",
+      "data": {
+        "vehicle_id": "695960",
+        "status": "IN-STOCK",
+        "price_display": "$30,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 30490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d902eef3a530a172c745a8996d4171ad.jpg",
+        "vin": "LC0CE4CC0S0385564",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/06",
+        "age_days": "437 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEAL Performance",
+      "data": {
+        "vehicle_id": "695966",
+        "status": "IN-STOCK",
+        "price_display": "$63,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/53f42baba2c1d754550f406970741ac4.jpg",
+        "vin": "LGXCF6CD1S2182993",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2025/06",
+        "age_days": "439 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEAL Premium",
+      "data": {
+        "vehicle_id": "695968",
+        "status": "IN-STOCK",
+        "price_display": "$54,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 54490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/aed020a4a340fc19813d25107b0bb7be.jpg",
+        "vin": "LGXCH6CD7S2194320",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2025/06",
+        "age_days": "439 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Essential",
+      "data": {
+        "vehicle_id": "713379",
+        "status": "IN-STOCK",
+        "price_display": "$43,890",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 43890.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/fbc776888e90aa7f20702e6ff35517cd.jpg",
+        "vin": "LGXC74C40S0483509",
+        "yard": "BYD Campbelltown",
+        "registration": "FSN76V",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/05",
+        "age_days": "474 days",
+        "registration_expiry": "Expires 16/09/2026"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "713450",
+        "status": "IN-STOCK",
+        "price_display": "$53,890",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 53890.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c1dcf796d0ce6e0a07c302097e36475a.jpg",
+        "vin": "LGXCD4C40S0589807",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/06",
+        "age_days": "446 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "713526",
+        "status": "IN-STOCK",
+        "price_display": "$63,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/82d2654917b28fbae20282223eca268a.jpg",
+        "vin": "LGXCF4CD6S2169127",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/05",
+        "age_days": "462 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "715570",
+        "status": "IN-TRANSIT",
+        "price_display": "$37,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 37490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8e45b47aa9724b184680083cb6a61f25.jpg",
+        "vin": "LC0CE4CB9S0417841",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_days": "415 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "715571",
+        "status": "IN-STOCK",
+        "price_display": "$37,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 37490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/29435ba9e8b1aba26b198100fc2a1ce3.jpg",
+        "vin": "LC0CE4CB3S0417737",
+        "yard": "BYD Haberfield",
+        "registration": "FWJ94W",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_days": "415 days",
+        "registration_expiry": "93 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEAL Performance",
+      "data": {
+        "vehicle_id": "718221",
+        "status": "IN-STOCK",
+        "price_display": "$61,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 61990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a482862022bb458c3b7842d3f064c853.jpg",
+        "vin": "LGXCF6CD5S2194631",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2025/06",
+        "age_days": "439 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "730794",
+        "status": "IN-STOCK",
+        "price_display": "$56,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5f601af2302cf32981a5437ff0a71405.jpg",
+        "vin": "LGXCH4CD9S2196073",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_days": "416 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "730823",
+        "status": "IN-STOCK",
+        "price_display": "$53,890",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 53890.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5403f49628b3f547579188931dc5c746.jpg",
+        "vin": "LGXCD4C44S0708152",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_days": "401 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "740804",
+        "status": "IN-STOCK",
+        "price_display": "$58,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a72f4110fbfb1a9460c0660e8a57372d.jpg",
+        "vin": "LPE19W2A9SF187429",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/04",
+        "age_days": "501 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "740821",
+        "status": "IN-STOCK",
+        "price_display": "$58,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/892f4a595066f4c5a315898b6bb5127c.jpg",
+        "vin": "LPE19W2A6SF358833",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/09",
+        "age_days": "340 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "740899",
+        "status": "IN-STOCK",
+        "price_display": "$54,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a3086aabf7ec77a0a7af0d073fcba252.jpg",
+        "vin": "LGXCH4CD5S2201883",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_days": "416 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "740900",
+        "status": "IN-STOCK",
+        "price_display": "$56,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/edfa14182e92eb6e6f368d829e827432.jpg",
+        "vin": "LGXCH4CD5S2196295",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_days": "416 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "740901",
+        "status": "IN-STOCK",
+        "price_display": "$56,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/6849d3950a124b5cd75206466b4fe022.jpg",
+        "vin": "LGXCH4CD5S2196264",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_days": "416 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "740952",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/37c8005d05c5974a9a6d9afc6926c0e4.jpg",
+        "vin": "LGXCF4CD6S2213157",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_days": "397 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "740959",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/39e95f6c2717c3173c0e3efc2e61b8dc.jpg",
+        "vin": "LGXCF4CD3S2215240",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_days": "396 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "740971",
+        "status": "IN-STOCK",
+        "price_display": "$53,890",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 53890.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/233bd8ca700bc0fa5a4bf2d2d5c8acb9.jpg",
+        "vin": "LGXCD4C49S0698394",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_days": "401 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "740972",
+        "status": "IN-STOCK",
+        "price_display": "$53,890",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 53890.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5122626a6b599490c1d997db4a057f9e.jpg",
+        "vin": "LGXCD4C48S0741977",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/08",
+        "age_days": "383 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "740975",
+        "status": "IN-STOCK",
+        "price_display": "$53,890",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 53890.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e54a4c8cf3838111d1cc0296669caf60.jpg",
+        "vin": "LGXCD4C47S0741940",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/08",
+        "age_days": "383 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "740978",
+        "status": "IN-STOCK",
+        "price_display": "$53,890",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 53890.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8a14157e3938c3f34f3e00942f8d4914.jpg",
+        "vin": "LGXCD4C46S0741962",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/08",
+        "age_days": "383 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Essential",
+      "data": {
+        "vehicle_id": "740991",
+        "status": "IN-STOCK",
+        "price_display": "$43,890",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 43890.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/aabfaffcb10162594c4b0d6f05592c84.jpg",
+        "vin": "LGXC74C49S0746807",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/08",
+        "age_days": "383 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Dynamic Extended",
+      "data": {
+        "vehicle_id": "741000",
+        "status": "IN-STOCK",
+        "price_display": "$47,890",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 47890.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/81ce0edc0dffbbbf1cde580498197808.jpg",
+        "vin": "LGXC74C45S0729129",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/08",
+        "age_days": "383 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "741112",
+        "status": "IN-STOCK",
+        "price_display": "$500",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 500.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e8e943ae340b342e8346e81421e50ae1.jpg",
+        "vin": "LC0CE4CB3S4517734",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/09",
+        "age_days": "347 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "741113",
+        "status": "IN-STOCK",
+        "price_display": "$500",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 500.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/3d5c855aefc9e7cb87da716e73c62037.jpg",
+        "vin": "LC0CE4CB9S4517754",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/09",
+        "age_days": "347 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "741132",
+        "status": "IN-STOCK",
+        "price_display": "$500",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 500.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/57fd3611672194d274bd0c47fcc11e49.jpg",
+        "vin": "LC0CE4CB0S4522082",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/09",
+        "age_days": "347 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "741139",
+        "status": "IN-STOCK",
+        "price_display": "$0",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 0.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7f919df1f1b38c92258ba41b8342539a.jpg",
+        "vin": "LC0CE4CB2S4522228",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/09",
+        "age_days": "347 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 2 Dynamic",
+      "data": {
+        "vehicle_id": "741145",
+        "status": "IN-STOCK",
+        "price_display": "$0",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 0.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/35ba04b0edfb1fd89dcd801758e3835c.jpg",
+        "vin": "LC0CE4CB5S4517671",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/09",
+        "age_days": "347 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "757070",
+        "status": "IN-STOCK",
+        "price_display": "$57,149",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 57149.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8bdff23e5d2d8ca3fffd190a0c21c4eb.jpg",
+        "vin": "LGXCD4C4XS0701948",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/07",
+        "age_days": "401 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "760942",
+        "status": "IN-STOCK",
+        "price_display": "$58,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/59f4a3ea76c61b1ff6876a038d29cfca.jpg",
+        "vin": "LPE19W2AXSF264390",
+        "yard": "BYD Windsor",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/06",
+        "age_days": "433 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "761167",
+        "status": "IN-STOCK",
+        "price_display": "$56,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ed03de2a8005ba9f425b4ac07e90c4d6.jpg",
+        "vin": "LGXCH4CD5S2240859",
+        "yard": "BYD Windsor",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/09",
+        "age_days": "339 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "768543",
+        "status": "IN-STOCK",
+        "price_display": "$56,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/54a2a8f6499206d19136e2b6699fd127.jpg",
+        "vin": "LGXCH4CD4S2228301",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/08",
+        "age_days": "362 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "768554",
+        "status": "IN-STOCK",
+        "price_display": "$56,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f5e1c78612c555285f3f68fb4d0fa037.jpg",
+        "vin": "LGXCH4CD1S2228465",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/08",
+        "age_days": "362 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 6 Essential",
+      "data": {
+        "vehicle_id": "780662",
+        "status": "IN-TRANSIT",
+        "price_display": "$43,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 43590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d9c76df8e9a425f77a3523b407a634d4.jpg",
+        "vin": "LGXC74C4XS0954243",
+        "yard": "BYD Haberfield",
+        "registration": "GCS83Z",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/10",
+        "age_days": "303 days",
+        "registration_expiry": "277 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "791187",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/9b2fdcb40d3d8ea480374cb256bc7431.jpg",
+        "vin": "LGXCD4C44T0136789",
+        "yard": "BYD Nunawading",
+        "registration": "2FE3VK",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/12",
+        "age_days": "251 days",
+        "registration_expiry": "297 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Essential",
+      "data": {
+        "vehicle_id": "792302",
+        "status": "IN-TRANSIT",
+        "price_display": "$34,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 34590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5a2b5cbbf7300ae50380d8dfd5d0b4a8.jpg",
+        "vin": "LC0C74C48T5088646",
+        "yard": "BYD Haberfield",
+        "registration": "GDJ82A",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/01",
+        "age_days": "221 days",
+        "registration_expiry": "277 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "799472",
+        "status": "IN-STOCK",
+        "price_display": "$56,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c81b0820608766f71ad2a6a16f67ed25.jpg",
+        "vin": "LGXCH4CD5T2073744",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_days": "275 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "799967",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/3ebada4ec25261a1cda1beebc1475ce5.jpg",
+        "vin": "LGXCD4C47T0142800",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/12",
+        "age_days": "237 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "804638",
+        "status": "IN-STOCK",
+        "price_display": "$70,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/dc7b95b65ae792e22a33e35a59a0bc2f.jpg",
+        "vin": "LGXCD4C44T0156038",
+        "yard": "BYD Caroline Springs",
+        "registration": "2EW2IH",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/02",
+        "age_days": "196 days",
+        "registration_expiry": "247 days"
+      }
+    },
+    {
+      "vehicle": "2025 BYD ATTO 2 Dynamic",
+      "data": {
+        "vehicle_id": "805175",
+        "status": "IN-STOCK",
+        "price_display": "$31,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 31990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/2daf17791359453c69fc2b7cd67301ae.jpg",
+        "vin": "LC0CE4CB6S4727096",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_days": "279 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "805186",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7f2af706dd5fa38fb9b258cbe2885bdd.jpg",
+        "vin": "LGXCF4CD0T2126971",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/02",
+        "age_days": "204 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD DOLPHIN Essential",
+      "data": {
+        "vehicle_id": "808431",
+        "status": "IN-STOCK",
+        "price_display": "$30,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 30490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/90634ec285e7b91c02a3c2cf72de9920.jpg",
+        "vin": "LC0CE4CC5T0052617",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/12",
+        "age_days": "233 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "808481",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a929b344c06f4f948fb35b05c1dbe8b5.jpg",
+        "vin": "LGXCF4CD2T2127281",
+        "yard": "BYD Wagga Wagga",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/02",
+        "age_days": "204 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Dynamic",
+      "data": {
+        "vehicle_id": "810468",
+        "status": "IN-STOCK",
+        "price_display": "$32,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 32590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/526d85f42b4657cb6bdffc314ec68d74.jpg",
+        "vin": "LC0CE4CB2T4064708",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/01",
+        "age_days": "228 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "vehicle_id": "811363",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e94f6bb40e20e9b26f9968e82aa9d2e4.jpg",
+        "vin": "LGXCD4C42T0175977",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/02",
+        "age_days": "179 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "813601",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7624935d14242df1fce554db7ec8a580.jpg",
+        "vin": "LGXCD4C49T0149862",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/12",
+        "age_days": "237 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "818471",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d757d06152a1081ac0f28157bfb5bd38.jpg",
+        "vin": "LGXCD4C49T0174017",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/02",
+        "age_days": "179 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Essential",
+      "data": {
+        "vehicle_id": "818522",
+        "status": "IN-STOCK",
+        "price_display": "$34,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 34590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c8ff485ec315dc4aa2b575f11b5ecd7c.jpg",
+        "vin": "LC0C74C49T5126952",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "173 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 1 Premium",
+      "data": {
+        "vehicle_id": "818621",
+        "status": "IN-STOCK",
+        "price_display": "$28,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 28490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/098b87406da856670c8ff839e8b8cea5.jpg",
+        "vin": "LGXCE4CBXT2139115",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "HATCHBACK",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "164 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "818656",
+        "status": "IN-STOCK",
+        "price_display": "$58,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8da603d14fa0ff2fcb78cc67ede57b80.jpg",
+        "vin": "LPE19W2A6TF146368",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "156 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL 6 Touring Premium",
+      "data": {
+        "vehicle_id": "822355",
+        "status": "IN-TRANSIT",
+        "price_display": "$39,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 39990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/bd90f526e54107ef3eb37a2c7080fe8a.jpg",
+        "vin": "LC0C74C41T4134209",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "WAGON",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "157 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL 6 Touring Premium",
+      "data": {
+        "vehicle_id": "822358",
+        "status": "IN-STOCK",
+        "price_display": "$39,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 39990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/cfb45a1a1af9013602954564903c4719.jpg",
+        "vin": "LC0C74C45T4134195",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "WAGON",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "157 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "822408",
+        "status": "IN-STOCK",
+        "price_display": "$63,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/353f9b33d51269e3811597916d59949e.jpg",
+        "vin": "LPE19W2A8TF168596",
+        "yard": "BYD Castle Hill",
+        "registration": "GDH16D",
+        "body_type": "UTILITY",
+        "odometer_km": "498",
+        "build_date": "2026/03",
+        "age_days": "152 days",
+        "registration_expiry": "327 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "822419",
+        "status": "IN-STOCK",
+        "price_display": "$63,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/2e8d2e5dadc0aca2f47b1b879de914fa.jpg",
+        "vin": "LPE19W2A6TF168578",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "152 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Essential",
+      "data": {
+        "vehicle_id": "823772",
+        "status": "IN-STOCK",
+        "price_display": "$43,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 43590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/bf7c881619cb22de5e8ee2ba5b9d8af5.jpg",
+        "vin": "LGXC74C46T0192675",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "162 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "825017",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/695cd8efd69f524221ec80f37ee3459c.jpg",
+        "vin": "LGXCD4C42T0190334",
+        "yard": "BYD Doncaster",
+        "registration": "2FC5AM",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "154 days",
+        "registration_expiry": "276 days"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "827792",
+        "status": "IN-STOCK",
+        "price_display": "$65,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5774f519f701679e40182c24ec9e3453.jpg",
+        "vin": "LGXCF4CD9T2161962",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "136 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "827797",
+        "status": "IN-STOCK",
+        "price_display": "$63,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/dd809d4536041e2de2bcd3ef9739229d.jpg",
+        "vin": "LGXCF4CD4T2160136",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "136 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "827838",
+        "status": "IN-STOCK",
+        "price_display": "$52,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/536a809874c487c52214bc0c0e09eb97.jpg",
+        "vin": "LGXCD4C4XT0221121",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "136 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "827839",
+        "status": "IN-STOCK",
+        "price_display": "$58,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f71686885b465498dff1d792538f480d.jpg",
+        "vin": "LPE19W2A0TF194030",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "136 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "827843",
+        "status": "IN-STOCK",
+        "price_display": "$58,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/83e8bd97dce31e1510219bdce90c491c.jpg",
+        "vin": "LPE19W2A1TF197938",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "136 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 1 Essential",
+      "data": {
+        "vehicle_id": "827943",
+        "status": "IN-STOCK",
+        "price_display": "$23,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 23990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f65aebbda5c8def6b7a75879cbeb12e6.jpg",
+        "vin": "LGXCE4CC7T2162246",
+        "yard": "BYD Wagga Wagga",
+        "registration": "",
+        "body_type": "HATCHBACK",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "133 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 3 Essential",
+      "data": {
+        "vehicle_id": "831427",
+        "status": "IN-STOCK",
+        "price_display": "$40,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 40590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a9c812e11905d177d60ce597aac6e8f8.jpg",
+        "vin": "LGXCE4CB6T2133022",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/02",
+        "age_days": "178 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Essential",
+      "data": {
+        "vehicle_id": "835952",
+        "status": "IN-STOCK",
+        "price_display": "$33,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 33990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c8a93deaebcf75f592c406ea1ec91056.jpg",
+        "vin": "LC0C74C40T5126998",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "174 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic FWD",
+      "data": {
+        "vehicle_id": "835984",
+        "status": "IN-STOCK",
+        "price_display": "$58,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/89319d60f26a2c9511cfec8a72ce4046.jpg",
+        "vin": "LGXC74C45T0216352",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "137 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 1 Premium",
+      "data": {
+        "vehicle_id": "836081",
+        "status": "IN-STOCK",
+        "price_display": "$28,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 28490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/46699aee2a62d6916304c08a9412f60e.jpg",
+        "vin": "LGXCE4CB1T2164646",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "HATCHBACK",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "133 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Essential",
+      "data": {
+        "vehicle_id": "836094",
+        "status": "IN-STOCK",
+        "price_display": "$29,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 29990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/0a0a15f5df868c981dbec08b5255de7b.jpg",
+        "vin": "LC0CE4CC8T0107738",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "130 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "vehicle_id": "836153",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5df9da1b182ca8da5e907e756cd95f53.jpg",
+        "vin": "LGXCD4C44T0189962",
+        "yard": "BYD Windsor",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "167 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "vehicle_id": "836155",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/262b969d6681bbd0c59da411e3531e94.jpg",
+        "vin": "LGXCD4C44T0190299",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "167 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "vehicle_id": "836163",
+        "status": "IN-TRANSIT",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/574d7de083fdfc54acb495018c9a6f90.jpg",
+        "vin": "LGXCD4C48T0190032",
+        "yard": "BYD Windsor",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "166 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "vehicle_id": "836164",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b1c29eb645c78c9f439628851d445410.jpg",
+        "vin": "LGXCD4C42T0198272",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/03",
+        "age_days": "162 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "836226",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/adb1b45732a04164919513e8b8aea129.jpg",
+        "vin": "LGXCD4C49T0231848",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "131 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "836237",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ae9c524aecc7064d691be614c8e3c4ea.jpg",
+        "vin": "LGXCD4C47T0233520",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "131 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "836297",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/0eaaa687954b8586dbb6ab9dde35b692.jpg",
+        "vin": "LGXCD4C45T0233483",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "129 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Dynamic Cab Chassis",
+      "data": {
+        "vehicle_id": "837425",
+        "status": "IN-STOCK",
+        "price_display": "$56,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/0c1d084f92872f692524abaa67242789.jpg",
+        "vin": "LPE59W2A1SF395452",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_days": "283 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Dynamic Cab Chassis",
+      "data": {
+        "vehicle_id": "837427",
+        "status": "IN-TRANSIT",
+        "price_display": "$56,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d65ce6a4bd5dda5fe9856a05f5ea8315.jpg",
+        "vin": "LPE59W2A3SF395453",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_days": "283 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Dynamic Cab Chassis",
+      "data": {
+        "vehicle_id": "837431",
+        "status": "IN-STOCK",
+        "price_display": "$55,900",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 55900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c47d85d8a5c0c42c8811e2102a3160a8.jpg",
+        "vin": "LPE59W2A5SF414620",
+        "yard": "BYD Wagga Wagga",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_days": "283 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Dynamic Cab Chassis",
+      "data": {
+        "vehicle_id": "837440",
+        "status": "IN-STOCK",
+        "price_display": "$55,900",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 55900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/49b620c3764a841ea454ecb73c161f1d.jpg",
+        "vin": "LPE59W2A3SF414664",
+        "yard": "BYD Windsor",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_days": "282 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Dynamic Cab Chassis",
+      "data": {
+        "vehicle_id": "837444",
+        "status": "IN-TRANSIT",
+        "price_display": "$55,900",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 55900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e85cc1c7a9fac5ea22c8809f8d6d5ffd.jpg",
+        "vin": "LPE59W2A9SF414734",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_days": "282 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SHARK 6 Dynamic Cab Chassis",
+      "data": {
+        "vehicle_id": "837446",
+        "status": "IN-STOCK",
+        "price_display": "$55,900",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 55900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/c7ef69a5393ce8a487cc776ded051b08.jpg",
+        "vin": "LPE59W2A1SF414713",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2025/11",
+        "age_days": "281 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 1 Essential",
+      "data": {
+        "vehicle_id": "837459",
+        "status": "IN-STOCK",
+        "price_display": "$23,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 23990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b7b5cc0f039d9e0aece66b5ff0050959.jpg",
+        "vin": "LGXCE4CCXT2167960",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "HATCHBACK",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "128 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Dynamic Extended",
+      "data": {
+        "vehicle_id": "837495",
+        "status": "IN-STOCK",
+        "price_display": "$47,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 47590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8adbedb6f0003c216fd9e479b45f08d7.jpg",
+        "vin": "LGXC74C44T0233885",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "124 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Dynamic Extended",
+      "data": {
+        "vehicle_id": "837513",
+        "status": "IN-STOCK",
+        "price_display": "$46,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 46990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/bedaa5182cfa163d24c05d118cf4c3c9.jpg",
+        "vin": "LGXC74C44T0240674",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "123 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "841335",
+        "status": "IN-TRANSIT",
+        "price_display": "$36,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/3e6ee6dbd118a5d318fa5687817826a9.jpg",
+        "vin": "LC0CE4CB4T4186762",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "125 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "841343",
+        "status": "IN-STOCK",
+        "price_display": "$36,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b46b4b27e9aa02ecb4beca4494e8e191.jpg",
+        "vin": "LC0CE4CB9T0110932",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "125 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "841423",
+        "status": "IN-STOCK",
+        "price_display": "$58,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/735784268af02aa53277fdeba6ea393c.jpg",
+        "vin": "LPE19W2A2TF221597",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "118 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "844191",
+        "status": "IN-STOCK",
+        "price_display": "$36,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/94a68abc4c0cac469f5039900e7200ab.jpg",
+        "vin": "LC0CE4CB9T4194193",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "121 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "844344",
+        "status": "IN-STOCK",
+        "price_display": "$36,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8a0085dc0e82a429c52d9cdf06f45275.jpg",
+        "vin": "LC0CE4CB4T4186759",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "114 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL 6 Touring Premium",
+      "data": {
+        "vehicle_id": "844418",
+        "status": "IN-STOCK",
+        "price_display": "$39,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 39990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1964c835fc967e5a2aa5802ab642f096.jpg",
+        "vin": "LC0C74C46T4206439",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "WAGON",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "111 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "848764",
+        "status": "IN-STOCK",
+        "price_display": "$58,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/283a772768962725e4eeb4c433266b82.jpg",
+        "vin": "LPE19W2A5TF225918",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "108 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "848782",
+        "status": "IN-STOCK",
+        "price_display": "$58,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/4f30bef813e4f32ad31e048538f89ae4.jpg",
+        "vin": "LPE19W2A2TF225990",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "107 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "848783",
+        "status": "IN-STOCK",
+        "price_display": "$58,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1821ffddf09ee040597836b5b59714ac.jpg",
+        "vin": "LPE19W2A3TF225982",
+        "yard": "BYD Wagga Wagga",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "107 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "848800",
+        "status": "IN-TRANSIT",
+        "price_display": "$63,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ca6d63776be1563ce023c6db99ceb61e.jpg",
+        "vin": "LPE19W2A2TF247911",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "106 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "848801",
+        "status": "IN-STOCK",
+        "price_display": "$63,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/2c01ca083da19b7fb1c953409c174bbc.jpg",
+        "vin": "LPE19W2A3TF247870",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "106 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Dynamic",
+      "data": {
+        "vehicle_id": "848849",
+        "status": "IN-STOCK",
+        "price_display": "$32,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 32590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b7d123af074b028ff6eb038734ca046e.jpg",
+        "vin": "LC0CE4CB6T4220507",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "108 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "853543",
+        "status": "IN-STOCK",
+        "price_display": "$36,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/67e92db5505834681b81c19ff095f5e3.jpg",
+        "vin": "LC0CE4CB1T4186718",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "120 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "853550",
+        "status": "IN-STOCK",
+        "price_display": "$65,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/030c4a3a2c27eac188a14089789d7b48.jpg",
+        "vin": "LGXCF4CD6T2176175",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "117 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "853559",
+        "status": "IN-STOCK",
+        "price_display": "$53,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 53590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/e340929e072274f082bdcd2785aa621b.jpg",
+        "vin": "LGXCD4C49T0253011",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "110 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL 6 Touring Premium",
+      "data": {
+        "vehicle_id": "853577",
+        "status": "IN-STOCK",
+        "price_display": "$40,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 40590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/91ba6dca5cab7323b4f4e6bf0baa190a.jpg",
+        "vin": "LC0C74C46T4229171",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "WAGON",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "107 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Essential",
+      "data": {
+        "vehicle_id": "854921",
+        "status": "IN-STOCK",
+        "price_display": "$30,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 30490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/8965679741d830f2f8b72c0b6d5eb0d3.jpg",
+        "vin": "LC0CE4CC8T0107657",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "127 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Dynamic",
+      "data": {
+        "vehicle_id": "861818",
+        "status": "IN-STOCK",
+        "price_display": "$32,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 32590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/037d977e771fd7d9351eb3fa8482a5f9.jpg",
+        "vin": "LC0CE4CB1T4269470",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "89 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "861825",
+        "status": "IN-STOCK",
+        "price_display": "$63,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ada2444d1c56ff3456109d1bd10abc37.jpg",
+        "vin": "LPE19W2A3TF247769",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "89 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "861826",
+        "status": "IN-STOCK",
+        "price_display": "$63,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/0f719809137a1afe6a90bf3e0fe0a2da.jpg",
+        "vin": "LPE19W2A9TF250871",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "89 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "861830",
+        "status": "IN-STOCK",
+        "price_display": "$63,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/3c3e6c2221b603e358cb4123b6b0d16e.jpg",
+        "vin": "LPE19W2A0TF250970",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "86 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Dynamic",
+      "data": {
+        "vehicle_id": "863104",
+        "status": "IN-STOCK",
+        "price_display": "$32,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 32590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/4e967bad23d26173c2deef47fc3c8e9f.jpg",
+        "vin": "LC0CE4CBXT4269449",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "90 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "866496",
+        "status": "IN-STOCK",
+        "price_display": "$70,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/581d6f845c8a84cee54b9bbf5d85321e.jpg",
+        "vin": "LGXCD4C40T0241409",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "108 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "866711",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7e625cc13ff96d6a92cf1e10fe99f2f1.jpg",
+        "vin": "LGXCD4C42T0270927",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "91 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 3 Essential",
+      "data": {
+        "vehicle_id": "866799",
+        "status": "IN-STOCK",
+        "price_display": "$39,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 39990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/393fa713bd8b9f56fd796c03e5c84dcf.jpg",
+        "vin": "LGXCE4CB4T2183322",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "90 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "866896",
+        "status": "IN-STOCK",
+        "price_display": "$63,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/dbc8620c623980f0f0b92cc86a0262ce.jpg",
+        "vin": "LGXCF4CD2T2192650",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "89 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL Premium",
+      "data": {
+        "vehicle_id": "866955",
+        "status": "IN-STOCK",
+        "price_display": "$54,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a0e1ace32796316af12021eb004bec3d.jpg",
+        "vin": "LGXCH6CD1T2199594",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "88 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "867462",
+        "status": "IN-STOCK",
+        "price_display": "$70,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/78ad38d57bef59d2ba6e3d40305323d9.jpg",
+        "vin": "LGXCD4C41T0234131",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "124 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "867465",
+        "status": "IN-STOCK",
+        "price_display": "$70,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 70990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b2088cb87ad08479f03ab5df2c1a3440.jpg",
+        "vin": "LGXCD4C45T0234181",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "124 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "870310",
+        "status": "IN-STOCK",
+        "price_display": "$36,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/188dc34ed9f92143f2da2e6ad4ca3a8f.jpg",
+        "vin": "LC0CE4CB9T0150718",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "87 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "870314",
+        "status": "IN-STOCK",
+        "price_display": "$37,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 37490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/31fba91533e8657c04bb3ea995f4e347.jpg",
+        "vin": "LC0CE4CB7T0156341",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "86 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "870316",
+        "status": "IN-STOCK",
+        "price_display": "$37,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 37490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/4dfc505f7106a691d9a5397b2f434f17.jpg",
+        "vin": "LC0CE4CB0T0158223",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "82 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "870320",
+        "status": "IN-STOCK",
+        "price_display": "$37,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 37490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ed7d1665e97d200d425cc45131ed59b7.jpg",
+        "vin": "LC0CE4CB6T0158274",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "82 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "vehicle_id": "870455",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/001db8f3928355940b1694af16c0770f.jpg",
+        "vin": "LGXCD4C42T0278610",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "91 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "vehicle_id": "870463",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/81b0e70b3b67fb6308ce622f3144627f.jpg",
+        "vin": "LGXCD4C45T0278634",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "91 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "vehicle_id": "870464",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/27dee21e734ec633b4e6e6e2581d4783.jpg",
+        "vin": "LGXCD4C46T0278609",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "91 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "vehicle_id": "870468",
+        "status": "IN-STOCK",
+        "price_display": "$63,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/62541004ea0a42d8bddc31399f8fcb7e.jpg",
+        "vin": "LGXCD4C41T0278906",
+        "yard": "BYD Castle Hill",
+        "registration": "GDR70F",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "91 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "vehicle_id": "870470",
+        "status": "IN-STOCK",
+        "price_display": "$63,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/cdf238e3e04c789c1ae2c267475fc433.jpg",
+        "vin": "LGXCD4C41T0278940",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "91 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic AWD",
+      "data": {
+        "vehicle_id": "870474",
+        "status": "IN-STOCK",
+        "price_display": "$63,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/118d6f8bbf266fa011000c345774abdc.jpg",
+        "vin": "LGXCD4C42T0278946",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "91 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "870492",
+        "status": "IN-STOCK",
+        "price_display": "$36,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/9d06f456f38fee791950285e6cc59fd7.jpg",
+        "vin": "LC0CE4CB9T0150668",
+        "yard": "BYD Wagga Wagga",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "87 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "870503",
+        "status": "IN-STOCK",
+        "price_display": "$37,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 37490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7cf0a152219587ef05fcb85eac1cc7e0.jpg",
+        "vin": "LC0CE4CB9T0156308",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "86 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "870509",
+        "status": "IN-STOCK",
+        "price_display": "$37,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 37490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/25b1dd3d7d236454fc3dd869c5b2640e.jpg",
+        "vin": "LC0CE4CBXT0156334",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "86 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "870513",
+        "status": "IN-STOCK",
+        "price_display": "$37,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 37490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/544eda98987fb950eaa74fc2d567587b.jpg",
+        "vin": "LC0CE4CB1T0158229",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "82 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "870520",
+        "status": "IN-STOCK",
+        "price_display": "$37,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 37490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/fbb481fd4c47a43e1b90b8c9c0f0be10.jpg",
+        "vin": "LC0CE4CB3T0158247",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "82 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "870526",
+        "status": "IN-STOCK",
+        "price_display": "$37,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 37490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/62193767609efe93f99ee71f4aec1e50.jpg",
+        "vin": "LC0CE4CB7T0156288",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "82 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "872053",
+        "status": "IN-STOCK",
+        "price_display": "$53,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 53590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/4854d209fbbec0340b9719bb47c91d6c.jpg",
+        "vin": "LGXCD4C41T0283636",
+        "yard": "BYD Wagga Wagga",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "86 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "872057",
+        "status": "IN-STOCK",
+        "price_display": "$53,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 53590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/13af64bf91f9b88acdaef8657670c3c0.jpg",
+        "vin": "LGXCD4C49T0285070",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "86 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2025 BYD SEALION 5 Premium",
+      "data": {
+        "vehicle_id": "876191",
+        "status": "IN-STOCK",
+        "price_display": "$38,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 38590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a331846fb81ab91448e7d426c46be43f.jpg",
+        "vin": "LC0C74C47T5070638",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2025/12",
+        "age_days": "249 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL Performance",
+      "data": {
+        "vehicle_id": "876196",
+        "status": "IN-STOCK",
+        "price_display": "$63,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7e4a49d26ff2d62e99c97b130efed3c9.jpg",
+        "vin": "LGXCF6CD5T2191018",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "90 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL Performance",
+      "data": {
+        "vehicle_id": "876201",
+        "status": "IN-STOCK",
+        "price_display": "$63,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/cfa1ba6c332acd53ac4083037f38e0c7.jpg",
+        "vin": "LGXCF6CDXT2190933",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "90 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL Performance",
+      "data": {
+        "vehicle_id": "876204",
+        "status": "IN-STOCK",
+        "price_display": "$63,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/0f630028c7ad780ee12adc87f4021b12.jpg",
+        "vin": "LGXCF6CD1T2190982",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "90 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "vehicle_id": "876486",
+        "status": "IN-STOCK",
+        "price_display": "$38,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 38590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f542c486c0d5eb8211305fbd69d3099d.jpg",
+        "vin": "LC0C74C40T7108473",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "88 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "vehicle_id": "876523",
+        "status": "IN-STOCK",
+        "price_display": "$38,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 38590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/3eb34023706159566f3dfd5c663061d2.jpg",
+        "vin": "LC0C74C41T7108756",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "78 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "878016",
+        "status": "IN-STOCK",
+        "price_display": "$65,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 65490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/79a53d758560616fa1fd177c544ed81c.jpg",
+        "vin": "LGXCF4CDXT2191830",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "88 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "878026",
+        "status": "IN-STOCK",
+        "price_display": "$63,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f56d0894f86267d355c9666db212506d.jpg",
+        "vin": "LGXCF4CD8T2192684",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "88 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Performance",
+      "data": {
+        "vehicle_id": "878029",
+        "status": "IN-STOCK",
+        "price_display": "$63,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1c221da54eb73064fa4a0a2b6ae5e9a9.jpg",
+        "vin": "LGXCF4CD9T2192676",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "88 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "878123",
+        "status": "IN-TRANSIT",
+        "price_display": "$56,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/fbcb587defd1d583b241889167fb5419.jpg",
+        "vin": "LGXCH4CD9T2209972",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "75 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "878142",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b402de821ec40b6d855d17a076014312.jpg",
+        "vin": "LGXCD4C42T0267736",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "96 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "878144",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/fa3ff32c17ca0af06d00156f1d80f7b5.jpg",
+        "vin": "LGXCD4C45T0267603",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "96 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Premium AWD",
+      "data": {
+        "vehicle_id": "878148",
+        "status": "IN-STOCK",
+        "price_display": "$72,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 72490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/9ee1a402d1a45d83518a3f3a8ca7953f.jpg",
+        "vin": "LGXCD4C47T0267702",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "96 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "vehicle_id": "878164",
+        "status": "IN-STOCK",
+        "price_display": "$38,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 38590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/1b02b007e730e6bbe614219922ced1f0.jpg",
+        "vin": "LC0C74C45T7108601",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "88 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "vehicle_id": "878174",
+        "status": "IN-STOCK",
+        "price_display": "$38,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 38590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/018479cffd202baf3e645e09c85f5352.jpg",
+        "vin": "LC0C74C4XT7108772",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "88 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "vehicle_id": "878175",
+        "status": "IN-STOCK",
+        "price_display": "$37,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 37990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/dd7b128249e9f180393026b2cc987f78.jpg",
+        "vin": "LC0C74C42T7108605",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "88 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "vehicle_id": "878190",
+        "status": "IN-STOCK",
+        "price_display": "$38,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 38590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/4dc7c504c2f31da7baae9c8f6a181375.jpg",
+        "vin": "LC0C74C43T7112484",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "86 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "vehicle_id": "878194",
+        "status": "IN-STOCK",
+        "price_display": "$38,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 38590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f0b7179c4075de7e437d8735dc5ee8c1.jpg",
+        "vin": "LC0C74C42T7108796",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "86 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 5 Premium",
+      "data": {
+        "vehicle_id": "878212",
+        "status": "IN-STOCK",
+        "price_display": "$38,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 38590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ead87b7186331e68c872add6efa1825a.jpg",
+        "vin": "LC0C74C49T7127362",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "74 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Premium",
+      "data": {
+        "vehicle_id": "881310",
+        "status": "IN-STOCK",
+        "price_display": "$36,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/4bcd6943881f1f86a051ecf6f61181e8.jpg",
+        "vin": "LC0CE4CB7T0150734",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "87 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL 6 Touring Premium",
+      "data": {
+        "vehicle_id": "881568",
+        "status": "IN-STOCK",
+        "price_display": "$40,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 40590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ff5ba675cdb745dbee71fb01ff564ef7.jpg",
+        "vin": "LC0C74C48T4229415",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "WAGON",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "108 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 6 Premium Extended",
+      "data": {
+        "vehicle_id": "881799",
+        "status": "IN-STOCK",
+        "price_display": "$53,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 53590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f856dc45d874d2051703ea961cbbb232.jpg",
+        "vin": "LGXCD4C48T0290874",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "85 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL Premium",
+      "data": {
+        "vehicle_id": "881825",
+        "status": "IN-STOCK",
+        "price_display": "$52,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 52990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/58958e22168ae1a0afbe83bbdaa1c578.jpg",
+        "vin": "LGXCH6CD4T2201564",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "75 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "881896",
+        "status": "IN-STOCK",
+        "price_display": "$36,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/70df7e6ec3dfbf359c2a7cc9ef6fb0c6.jpg",
+        "vin": "LC0CE4CB6T4285146",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "72 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "881914",
+        "status": "IN-STOCK",
+        "price_display": "$36,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/051be9e1ce19f7bfba9ebc9937286eda.jpg",
+        "vin": "LC0CE4CB7T4333785",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "68 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "885422",
+        "status": "IN-STOCK",
+        "price_display": "$62,900",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 62900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/f59ca3b5581aa944c1cdca07df67d557.jpg",
+        "vin": "LPE19W2AXTF250751",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "84 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "885430",
+        "status": "IN-STOCK",
+        "price_display": "$63,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/9f6e37a8ac33d45c2aa0455a24efb105.jpg",
+        "vin": "LPE19W2A2TF299989",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "74 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "885438",
+        "status": "IN-STOCK",
+        "price_display": "$62,900",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 62900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/239ea700cfafd43ab3da497a45cb58be.jpg",
+        "vin": "LPE19W2A6TF300044",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "73 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "885445",
+        "status": "IN-STOCK",
+        "price_display": "$62,900",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 62900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b0aad78aee28680380df6a6c28ce5117.jpg",
+        "vin": "LPE19W2A3TF299984",
+        "yard": "BYD Wagga Wagga",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "71 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL 6 Essential",
+      "data": {
+        "vehicle_id": "885707",
+        "status": "IN-STOCK",
+        "price_display": "$34,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 34990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/cdcffc78cf006e5f21b788e3c4300817.jpg",
+        "vin": "LC0C76C43T6056077",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "76 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Performance",
+      "data": {
+        "vehicle_id": "893709",
+        "status": "IN-STOCK",
+        "price_display": "$63,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 63600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/d1e93811f83c1e4776465f1804a22710.jpg",
+        "vin": "LPE19W2A1TF347109",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_days": "45 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "895801",
+        "status": "IN-STOCK",
+        "price_display": "$36,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/74047a7669d31f4de2050a96e0966b1c.jpg",
+        "vin": "LC0CE4CB9T4283701",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "89 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "895812",
+        "status": "IN-STOCK",
+        "price_display": "$35,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 35990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/a7eecea839044df8e80b47b114ad9d5c.jpg",
+        "vin": "LC0CE4CB2T4278033",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "87 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "895819",
+        "status": "IN-STOCK",
+        "price_display": "$56,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/6971359922a15403604a01ba3b2920a3.jpg",
+        "vin": "LGXCH4CD9T2211396",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "76 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "895824",
+        "status": "IN-STOCK",
+        "price_display": "$56,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b16b1e637c2cf1f522f229b57df2415b.jpg",
+        "vin": "LGXCH4CD3T2212723",
+        "yard": "BYD Wollongong",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "74 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic FWD",
+      "data": {
+        "vehicle_id": "896330",
+        "status": "IN-STOCK",
+        "price_display": "$58,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/73a5495b829756fba0c47a6e3fb64598.jpg",
+        "vin": "LGXC74C44T0258415",
+        "yard": "BYD Nowra",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "98 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "896362",
+        "status": "IN-STOCK",
+        "price_display": "$54,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 54990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/971bf3da37c0c580477ae0758a072d66.jpg",
+        "vin": "LGXCH4CDXT2212282",
+        "yard": "BYD Campbelltown",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "70 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic FWD",
+      "data": {
+        "vehicle_id": "896364",
+        "status": "IN-STOCK",
+        "price_display": "$58,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5d0cfa7affd6ef1a09c225d53b8c0c69.jpg",
+        "vin": "LGXC74C41T0307344",
+        "yard": "BYD Windsor",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "70 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 8 Dynamic FWD",
+      "data": {
+        "vehicle_id": "896365",
+        "status": "IN-STOCK",
+        "price_display": "$58,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/10df6fc8553e340d936e2c812288bb0c.jpg",
+        "vin": "LGXC74C43T0307345",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "70 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 3 Essential",
+      "data": {
+        "vehicle_id": "897609",
+        "status": "IN-TRANSIT",
+        "price_display": "$40,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 40590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/72210d0395862686b4555de0fa900033.jpg",
+        "vin": "LGXCE4CB1T2230077",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_days": "50 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 3 Essential",
+      "data": {
+        "vehicle_id": "897610",
+        "status": "IN-TRANSIT",
+        "price_display": "$40,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 40590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/bcaf2f612ef5078dd2e5e5bb0bb1d023.jpg",
+        "vin": "LGXCE4CB9T2230067",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_days": "50 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "897984",
+        "status": "IN-STOCK",
+        "price_display": "$58,600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 58600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/5cca12beb352ca681c860634b71a8f17.jpg",
+        "vin": "LPE19W2A1TF304728",
+        "yard": "BYD Rockdale",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "70 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD DOLPHIN Essential",
+      "data": {
+        "vehicle_id": "899615",
+        "status": "IN-STOCK",
+        "price_display": "$29,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 29990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/b2866b05fb5d99dce039cb662329e5e1.jpg",
+        "vin": "LC0CE4CC8T0127939",
+        "yard": "BYD Fairfield",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/05",
+        "age_days": "105 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 3 EVO Premium",
+      "data": {
+        "vehicle_id": "899683",
+        "status": "IN-TRANSIT",
+        "price_display": "$600",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 600.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/0e8e19d34ad76705fb14b020672b3983.jpg",
+        "vin": "LGXCH4CD6T2239723",
+        "yard": "BYD Caroline Springs",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_days": "44 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEALION 7 Premium",
+      "data": {
+        "vehicle_id": "899696",
+        "status": "IN-STOCK",
+        "price_display": "$56,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 56490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/7bcff95325c9cca8386add5194c5a766.jpg",
+        "vin": "LGXCH4CD6T2238488",
+        "yard": "BYD Nunawading",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_days": "42 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL Performance",
+      "data": {
+        "vehicle_id": "899727",
+        "status": "IN-STOCK",
+        "price_display": "$61,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 61990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/9f695e493216c3b1b3f8af26dabe8a13.jpg",
+        "vin": "LGXCF6CD2T2160468",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/04",
+        "age_days": "136 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SEAL Premium",
+      "data": {
+        "vehicle_id": "900442",
+        "status": "IN-STOCK",
+        "price_display": "$54,490",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 54490.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/0c32b5d794abc9b0ae8a80b4e9d5affa.jpg",
+        "vin": "LGXCH6CD6T2224084",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "SEDAN",
+        "odometer_km": "0",
+        "build_date": "2026/06",
+        "age_days": "61 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Dynamic",
+      "data": {
+        "vehicle_id": "900458",
+        "status": "IN-STOCK",
+        "price_display": "$31,990",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 31990.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/ff25ad726313b3bf22d2e560da6dde9d.jpg",
+        "vin": "LC0CE4CB5T4354165",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_days": "43 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD ATTO 2 Premium",
+      "data": {
+        "vehicle_id": "901310",
+        "status": "IN-STOCK",
+        "price_display": "$36,590",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 36590.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/779ef2ca45e53089940548c4988b5b19.jpg",
+        "vin": "LC0CE4CB7T4347962",
+        "yard": "BYD Castle Hill",
+        "registration": "",
+        "body_type": "SUV",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_days": "49 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "898506",
+        "status": "IN-TRANSIT",
+        "price_display": "$57,900",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/94ca41bece2ecb9100cf1df08501a06d.jpg",
+        "vin": "LPE19W2A2TF364999",
+        "yard": "BYD Haberfield",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_days": "34 days",
+        "registration_expiry": "No Rego"
+      }
+    },
+    {
+      "vehicle": "2026 BYD SHARK 6 Premium",
+      "data": {
+        "vehicle_id": "898508",
+        "status": "IN-STOCK",
+        "price_display": "$57,900",
+        "price_label": "Exc. Gov. Charges",
+        "price_value": 57900.0,
+        "photo_url": "https://dealers.virtualyard.com.au/vydata/4fa91c19016cb1f807ea47b5a959d518/6deaeb33852f4466d644df5371007736.jpg",
+        "vin": "LPE19W2A8TF364974",
+        "yard": "BYD Homebush",
+        "registration": "",
+        "body_type": "UTILITY",
+        "odometer_km": "0",
+        "build_date": "2026/07",
+        "age_days": "34 days",
+        "registration_expiry": "No Rego"
+      }
+    }
+  ]
+}
