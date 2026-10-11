@@ -17,7 +17,7 @@ const fs = require("fs");
 
 // ── PASTE YOUR COOKIE HERE ────────────────────────────────────────────────────
 const VY_COOKIE =
-  "__stripe_mid=c19a295b-a527-4020-a618-551150e206333d1141; _hjSessionUser_3296536=eyJpZCI6ImFmMzFlNDQ2LWY4NWUtNWE5OS05YzcxLWM2ZmFlNTJiODI2MyIsImNyZWF0ZWQiOjE3ODc2MzI3ODc3MTIsImV4aXN0aW5nIjp0cnVlfQ==; PHPSESSID=he9pp0idvvkskcpiqjnvuj6hh0; __stripe_sid=b5660408-91e2-452c-95a1-4415cdedd345724247; _hjSession_3296536=eyJpZCI6IjNiZThiYzBhLTQ2YmYtNGY5My04MzQxLTQ4ZjVlMDJjM2NjMiIsImMiOjE3ODg3Njc0ODUwMjEsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=";
+  "__stripe_mid=7996ec80-0221-46ab-917d-1452c2f471bd89ad1b; _hjSessionUser_3296536=eyJpZCI6IjM1ODg1ZjQyLTdhOTQtNTg0MS1iNTYzLTM2ZjYwYjcwZTc4YiIsImNyZWF0ZWQiOjE3OTA0OTA4Njc4MDQsImV4aXN0aW5nIjp0cnVlfQ==; PHPSESSID=smfidbann6ehl2a63b07nhv8p1; _hjSession_3296536=eyJpZCI6IjMyYTZiNjFhLWY4ZmUtNDQ5Zi1iMGRhLTEyZGU1OTM1YzgyNyIsImMiOjE3OTE3MjU0ODQ1ODksInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; __stripe_sid=e98fe75a-369c-425b-9cb6-ddb617d4b13f2b7f1a";
 // ─────────────────────────────────────────────────────────────────────────────
 
 const OUTPUT_FILE = "both.json";
