@@ -1,6 +1,6 @@
 /**
- * scraper.js — VirtualYard → output.json (MongoDB-ready)
- * Usage: node scraper.js
+ * Scraper.js — VirtualYard → both.json (MongoDB-ready)
+ * Usage: node Leads/Scraper.js
  *
  * API BEHAVIOUR (confirmed):
  *   - tab  param: 0=inbox 2=follow_up 3=overdue 4=done 5=archive
@@ -19,7 +19,7 @@ const fs = require("fs");
 const path = require("path");
 require("dotenv").config({ path: path.resolve(__dirname, "../../byd-sales-floor-backend/.env"), quiet: true });
 const vySession = require("../../byd-sales-floor-backend/src/services/virtualyardSession");
-const OUTPUT_FILE = "both.json";
+const OUTPUT_FILE = path.resolve(process.env.VY_OUTPUT_FILE || path.join(__dirname, 'both.json'));
 const BASE_URL = "https://dealers.virtualyard.com.au";
 const PAGE_SIZE = 50;
 const DELAY_MS = 300;
@@ -266,6 +266,7 @@ function parseRow(row, type, tabLabel, stageLabel) {
 async function fetchPage(menuId, tab, stage, start) {
   const url = `${BASE_URL}/ajax/datatable/search.php?${buildParams(menuId, tab, stage, start, PAGE_SIZE)}`;
   const res = { data: await vySession.json(url) };
+  if (!res.data || !Array.isArray(res.data.data) || res.data.error) throw new Error('Invalid Virtual Yard datatable response');
   return res.data;
 }
 
@@ -280,19 +281,20 @@ async function scrapeCombo(
   stageLabel,
   seen,
   allRecords,
+  io = { fetchPage, sleep },
 ) {
   const label = `${source.label} [${tabLabel}][${stageLabel}]`;
 
   let response;
   try {
-    response = await fetchPage(source.menuId, tab, stage, 0);
+    response = await io.fetchPage(source.menuId, tab, stage, 0);
   } catch (err) {
-    console.error(`\n  ⚠️  Initial fetch failed (${label}):`, err.message);
-    return;
+    throw new Error(`Initial fetch failed (${label}): ${err.message}`);
   }
 
   const reportedTotal = parseInt(response.recordsTotal) || 0;
-  if (reportedTotal === 0) return; // server says nothing here — skip silently
+  if (!Array.isArray(response.data)) throw new Error(`Invalid rows (${label})`);
+  if (response.data.length === 0) return;
 
   // Use reportedTotal only for the progress display, not to control loop termination
   process.stdout.write(`  📄 ${label}: ~${reportedTotal} records`);
@@ -315,32 +317,36 @@ async function scrapeCombo(
 
   // Stop when server returns 0 rows — that is the true end, regardless of recordsTotal
   let page = response;
+  const pageHashes = new Set([crypto.createHash('sha256').update(JSON.stringify(page.data)).digest('hex')]);
   while ((page.data || []).length > 0) {
     start += PAGE_SIZE;
-    await sleep(DELAY_MS);
+    await io.sleep(DELAY_MS);
 
     let next = null;
     for (let attempt = 1; attempt <= 3; attempt++) {
       try {
-        next = await fetchPage(source.menuId, tab, stage, start);
+        next = await io.fetchPage(source.menuId, tab, stage, start);
+        if (!Array.isArray(next?.data)) throw new Error('Invalid page rows');
         break;
       } catch (err) {
         console.error(
           `\n  ⚠️  Attempt ${attempt}/3 (${label} start=${start}):`,
           err.message,
         );
-        if (attempt < 3) await sleep(2000 * attempt);
+        if (attempt < 3) await io.sleep(2000 * attempt);
       }
     }
 
     if (!next) {
-      console.error(
-        `\n  ❌ All retries failed at start=${start} (fetched ${fetched})`,
-      );
-      break;
+      throw new Error(`All retries failed (${label}, start=${start}, fetched=${fetched})`);
     }
 
     page = next;
+    if (page.data.length) {
+      const hash = crypto.createHash('sha256').update(JSON.stringify(page.data)).digest('hex');
+      if (pageHashes.has(hash)) throw new Error(`Virtual Yard repeated a page (${label}, start=${start})`);
+      pageHashes.add(hash);
+    }
     newInThisCombo += processRows(
       page.data || [],
       source.type,
@@ -382,7 +388,7 @@ function processRows(
         added++;
       }
     } catch (err) {
-      console.error("\n  ⚠️  Parse error:", err.message);
+      throw new Error(`Row parsing failed (${type}): ${err.message}`);
     }
   }
   if (countCb) countCb(total);
@@ -430,27 +436,30 @@ async function main() {
     testDrives,
   };
 
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), "utf8");
+  if (!allRecords.length) throw new Error('Refusing to replace the snapshot with an empty scrape');
+  writeSnapshot(OUTPUT_FILE, output);
 
   const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
   console.log(`\n✅ Done in ${elapsed}s`);
   console.log(`   Leads      : ${leads.length}`);
   console.log(`   Test Drives: ${testDrives.length}`);
   console.log(`   Output     : ${OUTPUT_FILE}`);
-  console.log(`\n💡 Mongo import:`);
-  console.log(
-    `   mongoimport --db yourdb --collection leads      --jsonArray --file output.json --jsonPath '$.leads'`,
-  );
-  console.log(
-    `   mongoimport --db yourdb --collection testDrives --jsonArray --file output.json --jsonPath '$.testDrives'`,
-  );
+  return { file: OUTPUT_FILE, summary: output.summary };
+}
+
+function writeSnapshot(file, output) {
+  fs.mkdirSync(path.dirname(file), { recursive: true, mode: 0o700 });
+  const temporary = `${file}.${process.pid}.tmp`;
+  fs.writeFileSync(temporary, JSON.stringify(output, null, 2), { encoding: 'utf8', mode: 0o600 });
+  fs.renameSync(temporary, file);
 }
 
 function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
-main().catch((err) => {
-  console.error("💥 Fatal:", err);
-  process.exit(1);
+module.exports = { main, scrapeCombo, processRows, fetchPage, writeSnapshot, parseLeadRow, parseTestDriveRow };
+if (require.main === module) main().catch((err) => {
+  console.error("💥 Fatal:", err.message);
+  process.exitCode = 1;
 });

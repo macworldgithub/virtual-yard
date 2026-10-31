@@ -1,0 +1,15 @@
+[Unit]
+Description=Virtual Yard snapshot and database upsert
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/var/www/sales-floor/virtual-yard
+Environment=NODE_ENV=production
+Environment=TZ=Australia/Melbourne
+UMask=0077
+Nice=10
+TimeoutStartSec=55min
+ExecStart=/usr/bin/flock -n -E 75 /var/www/sales-floor/byd-sales-floor-backend/.runtime/virtualyard-sync.lock /usr/bin/node /var/www/sales-floor/virtual-yard/Leads/run-hourly.js
+SuccessExitStatus=75

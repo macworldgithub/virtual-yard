@@ -1,0 +1,11 @@
+[Unit]
+Description=Run the Virtual Yard sync every hour
+
+[Timer]
+OnCalendar=hourly
+Persistent=true
+AccuracySec=1s
+Unit=virtualyard-sync.service
+
+[Install]
+WantedBy=timers.target
