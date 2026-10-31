@@ -6,7 +6,7 @@ overlapping runs. The timer survives reboots and catches a missed run after boot
 
 The job shares the sales-floor backend's managed Virtual Yard session. It scrapes
 all lead tab/stage combinations and test drives, validates the snapshot, runs the
-existing idempotent importer from `byd-leads-backend`, and upserts into the database
+idempotent importer at `byd-sales-floor-backend/scripts/virtualyard/upsert-both.js`, and upserts into the database
 specified by `LEAD_CENTER_MONGO_URI` in the backend `.env`.
 Scheduled runs request 500 records per page; this is verified against the live
 endpoint. Direct CLI use keeps the original 50-record default unless
@@ -30,9 +30,12 @@ customer data changes never enter Git.
 
 ## Server installation
 
-Keep sibling checkouts of `virtual-yard`, `byd-leads-backend`, and
-`byd-sales-floor-backend` under `/var/www/sales-floor`. Install root dependencies
-with `npm ci --omit=dev` in `virtual-yard` and `byd-leads-backend`.
+Keep sibling checkouts of `virtual-yard` and `byd-sales-floor-backend` under
+`/var/www/sales-floor`. Install root dependencies with `npm ci --omit=dev` in
+`virtual-yard` and the sales-floor backend's normal deployment dependencies.
+The importer uses dependencies already installed by the sales-floor backend;
+no `byd-leads-backend` checkout or running service is needed. `VY_BACKEND_ROOT`
+can select a different backend checkout; `VY_IMPORTER_ROOT` is no longer used.
 
 Copy `deploy/virtualyard-sync.service` and `deploy/virtualyard-sync.timer` to
 `/etc/systemd/system/`, then run:

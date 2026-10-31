@@ -25,7 +25,7 @@ function pruneBackups(directory) {
   }
 }
 
-async function run({ backendRoot, importerRoot, dataDir, databaseUri, runCommand = execute }) {
+async function run({ backendRoot, dataDir, databaseUri, runCommand = execute }) {
   if (!databaseUri) throw new Error('LEAD_CENTER_MONGO_URI is required for the hourly import');
   fs.mkdirSync(dataDir, { recursive: true, mode: 0o700 });
   const backupDir = path.join(dataDir, 'backups');
@@ -36,12 +36,12 @@ async function run({ backendRoot, importerRoot, dataDir, databaseUri, runCommand
   const snapshot = path.join(dataDir, 'both.json');
   const backup = path.join(backupDir, `virtualyard-before-${stamp}.ejson`);
   const statusFile = path.join(dataDir, 'last-run.json');
-  const env = { ...process.env, MONGO_URI: databaseUri, VY_OUTPUT_FILE: pending,
+  const env = { ...process.env, LEAD_CENTER_MONGO_URI: databaseUri, VY_OUTPUT_FILE: pending,
     VIRTUALYARD_SESSION_FILE: process.env.VIRTUALYARD_SESSION_FILE || path.join(backendRoot, '.runtime/virtualyard-session.json') };
   const status = { status: 'running', startedAt, snapshot, pending, backup };
   writeStatus(statusFile, status);
   try {
-    const importer = path.join(importerRoot, 'seed/upsert-both.js');
+    const importer = path.join(backendRoot, 'scripts/virtualyard/upsert-both.js');
     if (!fs.existsSync(importer)) throw new Error('Virtual Yard upsert importer is not installed');
     await runCommand(path.join(__dirname, 'Scraper.js'), [], env);
     const payload = JSON.parse(fs.readFileSync(pending, 'utf8'));
@@ -65,7 +65,7 @@ async function run({ backendRoot, importerRoot, dataDir, databaseUri, runCommand
 async function main() {
   const backendRoot = path.resolve(process.env.VY_BACKEND_ROOT || path.join(__dirname, '../../byd-sales-floor-backend'));
   require('dotenv').config({ path: path.join(backendRoot, '.env'), quiet: true });
-  return run({ backendRoot, importerRoot: path.resolve(process.env.VY_IMPORTER_ROOT || path.join(__dirname, '../../byd-leads-backend')),
+  return run({ backendRoot,
     dataDir: path.resolve(process.env.VY_SYNC_DATA_DIR || path.join(backendRoot, '.runtime/virtualyard')),
     databaseUri: process.env.LEAD_CENTER_MONGO_URI });
 }

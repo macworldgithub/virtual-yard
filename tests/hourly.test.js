@@ -8,20 +8,20 @@ const { scrapeCombo, processRows, fetchPage } = require('../Leads/Scraper');
 
 function fixture(t) {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'vy-hourly-'));
-  fs.mkdirSync(path.join(root, 'importer/seed'), { recursive: true });
-  fs.writeFileSync(path.join(root, 'importer/seed/upsert-both.js'), '');
+  fs.mkdirSync(path.join(root, 'scripts/virtualyard'), { recursive: true });
+  fs.writeFileSync(path.join(root, 'scripts/virtualyard/upsert-both.js'), '');
   fs.mkdirSync(path.join(root, 'data'));
   fs.writeFileSync(path.join(root, 'data/both.json'), 'previous snapshot');
   t.after(() => {
     // Only test-created files inside the returned temporary directory.
-    for (const dir of [path.join(root, 'data/backups'), path.join(root, 'data'), path.join(root, 'importer/seed'), path.join(root, 'importer')]) {
+    for (const dir of [path.join(root, 'data/backups'), path.join(root, 'data'), path.join(root, 'scripts/virtualyard'), path.join(root, 'scripts')]) {
       if (!fs.existsSync(dir)) continue;
       for (const name of fs.readdirSync(dir)) { const file = path.join(dir, name); if (fs.lstatSync(file).isFile()) fs.unlinkSync(file); }
       fs.rmdirSync(dir);
     }
     fs.rmdirSync(root);
   });
-  return { backendRoot: root, importerRoot: path.join(root, 'importer'), dataDir: path.join(root, 'data'), databaseUri: 'mongodb://invalid.example/test' };
+  return { backendRoot: root, dataDir: path.join(root, 'data'), databaseUri: 'mongodb://invalid.example/test' };
 }
 const source = { scrapedAt: '2026-10-31T10:00:00Z', summary: { totalLeads: 1, totalTestDrives: 0 }, leads: [{ leadId: '100' }], testDrives: [] };
 
@@ -29,10 +29,11 @@ test('hourly job validates, backs up, upserts, then publishes the new both.json'
   const config = fixture(t);
   const calls = [];
   await run({ ...config, async runCommand(script, args, env) {
-    assert.equal(env.MONGO_URI, config.databaseUri);
+    assert.equal(env.LEAD_CENTER_MONGO_URI, config.databaseUri);
     calls.push(path.basename(script) + (args.includes('--dry-run') ? ':dry-run' : ''));
     if (path.basename(script) === 'Scraper.js') fs.writeFileSync(env.VY_OUTPUT_FILE, JSON.stringify(source));
     else {
+      assert.equal(script, path.join(config.backendRoot, 'scripts/virtualyard/upsert-both.js'));
       assert.equal(fs.readFileSync(path.join(config.dataDir, 'both.json'), 'utf8'), 'previous snapshot');
       if (!args.includes('--dry-run')) assert.ok(args.some(arg => arg.startsWith('--backup=')));
     }
