@@ -4,7 +4,7 @@ const fs = require('node:fs');
 const os = require('node:os');
 const path = require('node:path');
 const { run } = require('../Leads/run-hourly');
-const { scrapeCombo, processRows } = require('../Leads/Scraper');
+const { scrapeCombo, processRows, fetchPage } = require('../Leads/Scraper');
 
 function fixture(t) {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'vy-hourly-'));
@@ -72,4 +72,16 @@ test('failed pagination and malformed rows fail the scrape instead of accepting 
     { async fetchPage() { calls++; if (calls === 1) return { recordsTotal: 1, data: rows }; throw new Error('Network failed'); }, async sleep() {} }), /All retries failed/);
   assert.equal(calls, 4);
   assert.throws(() => processRows([null], 'lead', 'inbox', 'new', new Set(), []), /Row parsing failed/);
+});
+
+test('native end-of-list envelopes without data are accepted, while malformed responses fail', async t => {
+  const session = require('../../byd-sales-floor-backend/src/services/virtualyardSession');
+  const original = session.json;
+  t.after(() => { session.json = original; });
+  session.json = async () => ({ recordsTotal: 310, recordsFiltered: 310 });
+  assert.deepEqual((await fetchPage(245, 0, 0, 350)).data, []);
+  session.json = async () => ({ error: 'Access denied', recordsTotal: 0, recordsFiltered: 0 });
+  await assert.rejects(fetchPage(245, 0, 0, 350), /Invalid Virtual Yard/);
+  session.json = async () => ({ unexpected: true });
+  await assert.rejects(fetchPage(245, 0, 0, 350), /Invalid Virtual Yard/);
 });

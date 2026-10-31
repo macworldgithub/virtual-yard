@@ -266,7 +266,13 @@ function parseRow(row, type, tabLabel, stageLabel) {
 async function fetchPage(menuId, tab, stage, start) {
   const url = `${BASE_URL}/ajax/datatable/search.php?${buildParams(menuId, tab, stage, start, PAGE_SIZE)}`;
   const res = { data: await vySession.json(url) };
-  if (!res.data || !Array.isArray(res.data.data) || res.data.error) throw new Error('Invalid Virtual Yard datatable response');
+  if (!res.data || res.data.error) throw new Error('Invalid Virtual Yard datatable response');
+  if (!Array.isArray(res.data.data)) {
+    // The native endpoint omits `data` entirely at the end of a filtered list.
+    const validCounts = ['recordsTotal', 'recordsFiltered'].every(key => Object.hasOwn(res.data, key) && Number.isFinite(Number(res.data[key])) && Number(res.data[key]) >= 0);
+    if (!validCounts || ![undefined, null, ''].includes(res.data.data)) throw new Error('Invalid Virtual Yard datatable response');
+    res.data.data = [];
+  }
   return res.data;
 }
 
