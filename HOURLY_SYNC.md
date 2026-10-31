@@ -8,6 +8,9 @@ The job shares the sales-floor backend's managed Virtual Yard session. It scrape
 all lead tab/stage combinations and test drives, validates the snapshot, runs the
 existing idempotent importer from `byd-leads-backend`, and upserts into the database
 specified by `LEAD_CENTER_MONGO_URI` in the backend `.env`.
+Scheduled runs request 500 records per page; this is verified against the live
+endpoint. Direct CLI use keeps the original 50-record default unless
+`VY_SCRAPE_PAGE_SIZE` is set.
 
 Runtime files are private and excluded from Git:
 

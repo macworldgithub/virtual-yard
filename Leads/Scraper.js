@@ -21,7 +21,8 @@ require("dotenv").config({ path: path.resolve(__dirname, "../../byd-sales-floor-
 const vySession = require("../../byd-sales-floor-backend/src/services/virtualyardSession");
 const OUTPUT_FILE = path.resolve(process.env.VY_OUTPUT_FILE || path.join(__dirname, 'both.json'));
 const BASE_URL = "https://dealers.virtualyard.com.au";
-const PAGE_SIZE = 50;
+const PAGE_SIZE = Number(process.env.VY_SCRAPE_PAGE_SIZE || 50);
+if (!Number.isInteger(PAGE_SIZE) || PAGE_SIZE < 1 || PAGE_SIZE > 1000) throw new Error('VY_SCRAPE_PAGE_SIZE must be between 1 and 1000');
 const DELAY_MS = 300;
 
 const LEAD_TABS = [

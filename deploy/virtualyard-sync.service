@@ -8,6 +8,7 @@ Type=oneshot
 WorkingDirectory=/var/www/sales-floor/virtual-yard
 Environment=NODE_ENV=production
 Environment=TZ=Australia/Melbourne
+Environment=VY_SCRAPE_PAGE_SIZE=500
 UMask=0077
 Nice=10
 TimeoutStartSec=55min
