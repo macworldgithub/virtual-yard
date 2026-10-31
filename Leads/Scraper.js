@@ -10,16 +10,15 @@
  *   - Dedup by leadId handles any overlap between combos
  */
 
-const axios = require("axios");
+
 const cheerio = require("cheerio");
 const crypto = require("crypto");
 const fs = require("fs");
 
-// ── PASTE YOUR COOKIE HERE ────────────────────────────────────────────────────
-const VY_COOKIE =
-  "__stripe_mid=7996ec80-0221-46ab-917d-1452c2f471bd89ad1b; _hjSessionUser_3296536=eyJpZCI6IjM1ODg1ZjQyLTdhOTQtNTg0MS1iNTYzLTM2ZjYwYjcwZTc4YiIsImNyZWF0ZWQiOjE3OTA0OTA4Njc4MDQsImV4aXN0aW5nIjp0cnVlfQ==; PHPSESSID=kvbqvlllq94pu5mf2olnr8r4q4; _hjSession_3296536=eyJpZCI6Ijc4NDk1NWUxLWI0NzktNGM1OS1hNzY0LWU2Mjc2OWMzNThjMSIsImMiOjE3OTMxMjQ0NDEyMzgsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; __stripe_sid=ac39210f-d69f-44e7-ae9a-f9f5b84d87b32e504a";
-// ─────────────────────────────────────────────────────────────────────────────
-
+// Reuse the backend's managed session instead of keeping a second hard-coded cookie.
+const path = require("path");
+require("dotenv").config({ path: path.resolve(__dirname, "../../byd-sales-floor-backend/.env"), quiet: true });
+const vySession = require("../../byd-sales-floor-backend/src/services/virtualyardSession");
 const OUTPUT_FILE = "both.json";
 const BASE_URL = "https://dealers.virtualyard.com.au";
 const PAGE_SIZE = 50;
@@ -81,16 +80,6 @@ const MAKES = [
 ];
 
 // ─── HTTP ─────────────────────────────────────────────────────────────────────
-function makeHeaders() {
-  return {
-    Cookie: VY_COOKIE,
-    Accept: "application/json, text/javascript, */*; q=0.01",
-    "X-Requested-With": "XMLHttpRequest",
-    Referer: `${BASE_URL}/render.php?page=leads&params=&menuId=245`,
-    "User-Agent":
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-  };
-}
 
 function buildParams(menuId, tab, stage, start, length) {
   const p = new URLSearchParams();
@@ -276,7 +265,7 @@ function parseRow(row, type, tabLabel, stageLabel) {
 // ─── Fetch ────────────────────────────────────────────────────────────────────
 async function fetchPage(menuId, tab, stage, start) {
   const url = `${BASE_URL}/ajax/datatable/search.php?${buildParams(menuId, tab, stage, start, PAGE_SIZE)}`;
-  const res = await axios.get(url, { headers: makeHeaders(), timeout: 20000 });
+  const res = { data: await vySession.json(url) };
   return res.data;
 }
 
@@ -402,12 +391,7 @@ function processRows(
 
 // ─── Main ─────────────────────────────────────────────────────────────────────
 async function main() {
-  if (!VY_COOKIE || VY_COOKIE === "PASTE_YOUR_COOKIE_HERE") {
-    console.error(
-      "❌ Paste your cookie into VY_COOKIE at the top of this file.",
-    );
-    process.exit(1);
-  }
+  await vySession.check();
 
   const allRecords = [];
   const seen = new Set();
